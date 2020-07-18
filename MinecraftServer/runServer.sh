@@ -1,4 +1,4 @@
 #Bash file to run minecraft server
 
-java -Xmx1024M -Xms1024M -jar server.jar nogui
+java -Xmx10024M -Xms10024M -jar server.jar nogui
 

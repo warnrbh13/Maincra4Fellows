@@ -1,3 +1,83 @@
-[01:30:56] [main/ERROR]: Failed to load properties from file: server.properties
-[01:30:57] [main/WARN]: Failed to load eula.txt
-[01:30:57] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[02:22:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[02:22:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:22:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:22:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:22:19] [main/INFO]: Reloading ResourceManager: Default
+[02:22:22] [Worker-Main-13/INFO]: Loaded 7 recipes
+[02:22:24] [Worker-Main-13/INFO]: Loaded 927 advancements
+[02:22:26] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[02:22:26] [Server thread/INFO]: Loading properties
+[02:22:26] [Server thread/INFO]: Default game type: SURVIVAL
+[02:22:26] [Server thread/INFO]: Generating keypair
+[02:22:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:22:26] [Server thread/INFO]: Using epoll channel type
+[02:22:27] [Server thread/INFO]: Preparing level "Kovidland"
+[02:22:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:22:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:22:46] [Server thread/INFO]: Preparing spawn area: 6%
+[02:22:48] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[02:22:48] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[02:22:48] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[02:22:48] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[02:22:48] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[02:22:49] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[02:22:49] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[02:22:50] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[02:22:50] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[02:22:51] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[02:22:51] [Worker-Main-11/INFO]: Preparing spawn area: 86%
+[02:22:52] [Server thread/INFO]: Preparing spawn area: 97%
+[02:22:52] [Server thread/INFO]: Time elapsed: 24624 ms
+[02:22:52] [Server thread/INFO]: Done (25.065s)! For help, type "help"
+[02:23:33] [User Authenticator #1/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[02:23:33] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56107] logged in with entity id 142 at (-179.5, 68.0, 215.5)
+[02:23:33] [Server thread/INFO]: EvilliveFuad joined the game
+[02:23:38] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[02:23:38] [Server thread/INFO]: lunarTroop[/25.3.255.127:50478] logged in with entity id 281 at (-172.5, 68.0, 212.5)
+[02:23:38] [Server thread/INFO]: lunarTroop joined the game
+[02:23:39] [User Authenticator #3/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:23:39] [Server thread/INFO]: memohcepgi[/25.3.27.60:14478] logged in with entity id 286 at (-171.5, 69.0, 211.5)
+[02:23:39] [Server thread/INFO]: memohcepgi joined the game
+[02:26:00] [User Authenticator #4/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[02:26:00] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:46722] logged in with entity id 515 at (-179.5, 68.0, 213.5)
+[02:26:00] [Server thread/INFO]: ProvidedSolid joined the game
+[02:27:04] [Server thread/INFO]: EvilliveFuad has made the advancement [Stone Age]
+[02:28:33] [Server thread/INFO]: lunarTroop has made the advancement [Stone Age]
