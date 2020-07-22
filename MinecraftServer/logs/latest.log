@@ -1,215 +1,95 @@
-[05:22:24] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[05:22:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:22:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:22:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:22:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:22:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:22:26] [main/INFO]: Reloading ResourceManager: Default
-[05:22:29] [Worker-Main-12/INFO]: Loaded 7 recipes
-[05:22:30] [Worker-Main-12/INFO]: Loaded 927 advancements
-[05:22:32] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[05:22:32] [Server thread/INFO]: Loading properties
-[05:22:32] [Server thread/INFO]: Default game type: SURVIVAL
-[05:22:32] [Server thread/INFO]: Generating keypair
-[05:22:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:22:33] [Server thread/INFO]: Using epoll channel type
-[05:22:34] [Server thread/INFO]: Preparing level "Kovidland"
-[05:22:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:49] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:50] [Server thread/INFO]: Preparing spawn area: 0%
-[05:22:50] [Server thread/INFO]: Preparing spawn area: 83%
-[05:22:51] [Server thread/INFO]: Time elapsed: 15892 ms
-[05:22:51] [Server thread/INFO]: Done (16.856s)! For help, type "help"
-[05:23:14] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[05:23:14] [Server thread/INFO]: lunarTroop[/25.3.255.127:56361] logged in with entity id 247 at (-159.74480853479844, 69.0, 198.22490120229554)
-[05:23:14] [Server thread/INFO]: lunarTroop joined the game
-[05:32:49] [User Authenticator #2/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[05:32:49] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:48448] logged in with entity id 1454 at (-205.42348387897238, 69.0, 350.5857537404797)
-[05:32:49] [Server thread/INFO]: ProvidedSolid joined the game
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:32:52] [Server thread/ERROR]: Unknown tag: minecraft:doors
-[05:33:14] [User Authenticator #3/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[05:33:14] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56894] logged in with entity id 1659 at (-80.72918013235483, 10.0, 202.20696271036687)
-[05:33:14] [Server thread/INFO]: EvilliveFuad joined the game
-[05:43:18] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[05:43:18] [Server thread/INFO]: ProvidedSolid left the game
-[05:44:45] [Server thread/WARN]: EvilliveFuad moved too quickly! 1.4904958790266392,2.1677966466332492,-9.857650490516022
-[05:50:00] [User Authenticator #4/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[05:50:00] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:33062] logged in with entity id 7152 at (915.398522300329, 69.24918707874468, 248.90645179384705)
-[05:50:00] [Server thread/INFO]: ProvidedSolid joined the game
-[05:50:15] [Server thread/INFO]: EvilliveFuad has made the advancement [Sweet Dreams]
-[05:50:38] [Server thread/INFO]: lunarTroop has made the advancement [Sweet Dreams]
-[05:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=401, y=64, z=-376} fu{x=400, y=63, z=-376}
-[05:59:07] [Server thread/INFO]: ProvidedSolid has made the advancement [Ice Bucket Challenge]
-[06:00:05] [Server thread/INFO]: <ProvidedSolid> 278, 78, -298
-[06:02:11] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[06:02:11] [Server thread/INFO]: EvilliveFuad left the game
-[06:02:16] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:02:16] [Server thread/INFO]: lunarTroop left the game
-[06:02:42] [User Authenticator #5/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[06:02:42] [Server thread/INFO]: lunarTroop[/25.3.255.127:57179] logged in with entity id 12766 at (-87.10201081970227, 76.0, 323.0736179779008)
-[06:02:42] [Server thread/INFO]: lunarTroop joined the game
-[06:05:02] [User Authenticator #6/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[06:05:02] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:57012] logged in with entity id 13388 at (182.47649243329843, 64.0, 147.1147749875113)
-[06:05:02] [Server thread/INFO]: EvilliveFuad joined the game
-[06:05:23] [Server thread/INFO]: <ProvidedSolid> 278, 78, -298
-[06:07:38] [Server thread/INFO]: EvilliveFuad has made the advancement [What a Deal!]
-[06:13:25] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[06:13:25] [Server thread/INFO]: EvilliveFuad left the game
-[06:13:41] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:13:41] [Server thread/INFO]: lunarTroop left the game
-[06:13:55] [User Authenticator #7/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[06:13:55] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:57037] logged in with entity id 16530 at (234.12866638714692, 81.0, -343.6903557737506)
-[06:13:55] [Server thread/INFO]: EvilliveFuad joined the game
-[06:13:55] [User Authenticator #8/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[06:13:56] [Server thread/INFO]: lunarTroop[/25.3.255.127:57385] logged in with entity id 16543 at (281.8200724230461, 71.0, -212.7533119381236)
-[06:13:56] [Server thread/INFO]: lunarTroop joined the game
-[06:14:38] [Server thread/INFO]: <ProvidedSolid> 278, 78, -300
-[06:15:27] [Server thread/INFO]: EvilliveFuad has made the advancement [Who is Cutting Onions?]
-[06:17:36] [Server thread/INFO]: ProvidedSolid has made the advancement [Who is Cutting Onions?]
-[06:17:41] [User Authenticator #9/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[06:17:41] [Server thread/INFO]: memohcepgi[/25.3.27.60:4042] logged in with entity id 16985 at (-172.30000001192093, 75.0, 194.8502431078269)
-[06:17:41] [Server thread/INFO]: memohcepgi joined the game
-[06:17:42] [Server thread/INFO]: lunarTroop has made the advancement [Who is Cutting Onions?]
-[06:17:49] [Server thread/INFO]: lunarTroop has made the advancement [Ice Bucket Challenge]
-[06:19:20] [Server thread/INFO]: <ProvidedSolid> 278, 78, -300
-[06:21:50] [Server thread/INFO]: memohcepgi has made the advancement [Stone Age]
-[06:22:23] [Server thread/INFO]: memohcepgi has made the advancement [Getting an Upgrade]
-[06:22:30] [Server thread/INFO]: memohcepgi has made the advancement [Acquire Hardware]
-[06:22:39] [Server thread/INFO]: memohcepgi has made the advancement [Isn't It Iron Pick]
-[06:24:39] [Server thread/INFO]: memohcepgi has made the advancement [Sweet Dreams]
-[06:24:51] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:24:51] [Server thread/INFO]: lunarTroop left the game
-[06:25:55] [User Authenticator #10/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[06:25:55] [Server thread/INFO]: lunarTroop[/25.3.255.127:57603] logged in with entity id 19224 at (-39.69999998807909, 78.0, -288.451042081329)
-[06:25:55] [Server thread/INFO]: lunarTroop joined the game
-[06:30:07] [Server thread/INFO]: memohcepgi has made the advancement [We Need to Go Deeper]
-[06:30:25] [Server thread/INFO]: <EvilliveFuad> -5, 46, 16
-[06:30:31] [Server thread/INFO]: ProvidedSolid has made the advancement [We Need to Go Deeper]
-[06:30:49] [Server thread/INFO]: EvilliveFuad has made the advancement [We Need to Go Deeper]
-[06:31:04] [Server thread/INFO]: memohcepgi was slain by Piglin
-[06:34:49] [Server thread/INFO]: memohcepgi has made the advancement [Suit Up]
-[06:44:36] [Server thread/INFO]: memohcepgi has made the advancement [Diamonds!]
-[06:44:49] [Server thread/INFO]: ProvidedSolid has made the advancement [Diamonds!]
-[06:46:36] [Server thread/INFO]: ProvidedSolid has made the advancement [A Seedy Place]
-[06:47:47] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:47:47] [Server thread/INFO]: lunarTroop left the game
-[06:48:36] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[06:48:36] [Server thread/INFO]: memohcepgi left the game
-[06:48:56] [User Authenticator #11/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[06:48:56] [Server thread/INFO]: memohcepgi[/25.3.27.60:4094] logged in with entity id 24012 at (-96.07400612942111, 11.0, 269.6410385754315)
-[06:48:56] [Server thread/INFO]: memohcepgi joined the game
-[06:53:26] [User Authenticator #12/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[06:53:26] [Server thread/INFO]: lunarTroop[/25.3.255.127:58166] logged in with entity id 25245 at (-159.59330077520318, 69.0, 198.45265974633887)
-[06:53:26] [Server thread/INFO]: lunarTroop joined the game
-[06:56:11] [Server thread/INFO]: EvilliveFuad has made the advancement [A Seedy Place]
-[06:56:21] [Server thread/INFO]: lunarTroop has made the advancement [A Seedy Place]
-[07:05:36] [Server thread/INFO]: EvilliveFuad has made the advancement [Take Aim]
-[07:06:03] [Server thread/INFO]: memohcepgi has made the advancement [Monster Hunter]
-[07:08:01] [Server thread/INFO]: memohcepgi has made the advancement [Not Today, Thank You]
-[07:22:22] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[07:22:22] [Server thread/INFO]: memohcepgi left the game
-[07:22:42] [User Authenticator #13/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[07:22:42] [Server thread/INFO]: memohcepgi[/25.3.27.60:4135] logged in with entity id 32167 at (-94.31163032413865, 9.0, 442.33316625185006)
-[07:22:42] [Server thread/INFO]: memohcepgi joined the game
-[07:39:11] [Server thread/WARN]: lunarTroop moved too quickly! -7.180886074653813,7.0,0.09938244393563878
-[07:39:19] [Server thread/WARN]: ProvidedSolid moved too quickly! 9.880410458424127,1.2491870787446828,-1.1321455852340137
-[07:50:50] [Server thread/INFO]: memohcepgi was burnt to a crisp whilst fighting Skeleton
-[07:52:56] [Server thread/INFO]: lunarTroop has made the advancement [Enchanter]
-[07:56:47] [Server thread/INFO]: lunarTroop has made the advancement [The Parrots and the Bats]
-[07:59:07] [Server thread/INFO]: ProvidedSolid has made the advancement [Take Aim]
-[08:04:16] [Server thread/INFO]: ProvidedSolid has made the advancement [Enchanter]
-[08:04:38] [Server thread/INFO]: EvilliveFuad has made the advancement [Enchanter]
-[08:09:27] [Server thread/INFO]: EvilliveFuad has made the advancement [A Terrible Fortress]
-[08:09:42] [Server thread/INFO]: ProvidedSolid has made the advancement [A Terrible Fortress]
-[08:14:31] [Server thread/INFO]: ProvidedSolid has made the advancement [Into Fire]
-[08:15:00] [Server thread/INFO]: EvilliveFuad has made the advancement [Into Fire]
-[08:36:44] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[08:36:44] [Server thread/INFO]: memohcepgi left the game
-[08:37:17] [User Authenticator #14/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[08:37:17] [Server thread/INFO]: memohcepgi[/25.3.27.60:4233] logged in with entity id 56401 at (-118.25783281011503, 11.0, 230.69999998807907)
-[08:37:17] [Server thread/INFO]: memohcepgi joined the game
-[08:38:08] [Server thread/INFO]: lunarTroop has made the advancement [Take Aim]
-[08:38:12] [Server thread/INFO]: ProvidedSolid was blown up by Creeper
-[08:56:45] [Server thread/INFO]: ProvidedSolid has made the advancement [Local Brewery]
-[09:01:20] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[09:01:20] [Server thread/INFO]: EvilliveFuad left the game
-[09:02:49] [Server thread/INFO]: memohcepgi has made the advancement [Enchanter]
-[09:03:41] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[09:03:41] [Server thread/INFO]: memohcepgi left the game
-[09:04:51] [User Authenticator #15/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[09:04:51] [Server thread/INFO]: memohcepgi[/25.3.27.60:4286] logged in with entity id 61740 at (-158.3630765400626, 69.0, 198.58587604276823)
-[09:04:51] [Server thread/INFO]: memohcepgi joined the game
-[09:05:08] [Server thread/INFO]: memohcepgi lost connection: Timed out
-[09:05:08] [Server thread/INFO]: memohcepgi left the game
-[09:05:26] [User Authenticator #16/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[09:05:26] [Server thread/INFO]: memohcepgi[/25.3.27.60:4290] logged in with entity id 61810 at (-158.3630765400626, 69.0, 198.58587604276823)
-[09:05:26] [Server thread/INFO]: memohcepgi joined the game
-[09:05:46] [Server thread/INFO]: memohcepgi lost connection: Timed out
-[09:05:46] [Server thread/INFO]: memohcepgi left the game
-[09:06:05] [User Authenticator #17/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[09:06:05] [Server thread/INFO]: memohcepgi[/25.3.27.60:4298] logged in with entity id 61895 at (-156.69999998807907, 69.0, 197.8986326555088)
-[09:06:05] [Server thread/INFO]: memohcepgi joined the game
-[09:06:31] [Server thread/INFO]: memohcepgi lost connection: Timed out
-[09:06:31] [Server thread/INFO]: memohcepgi left the game
-[09:06:34] [Server thread/INFO]: lunarTroop has made the advancement [Fishy Business]
-[09:07:33] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[09:07:33] [Server thread/INFO]: ProvidedSolid left the game
-[09:08:24] [Server thread/INFO]: lunarTroop has made the advancement [Tactical Fishing]
-[09:08:59] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[09:08:59] [Server thread/INFO]: lunarTroop left the game
-[09:10:21] [Server thread/INFO]: Stopping server
-[09:10:21] [Server thread/INFO]: Saving players
-[09:10:21] [Server thread/INFO]: Saving worlds
-[09:10:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
-[09:10:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[09:10:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
-[09:10:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:10:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
-[09:10:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:10:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[09:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:10:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:07:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:07:04] [main/INFO]: Reloading ResourceManager: Default
+[03:07:06] [Worker-Main-12/INFO]: Loaded 7 recipes
+[03:07:07] [Worker-Main-12/INFO]: Loaded 927 advancements
+[03:07:09] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[03:07:09] [Server thread/INFO]: Loading properties
+[03:07:09] [Server thread/INFO]: Default game type: SURVIVAL
+[03:07:09] [Server thread/INFO]: Generating keypair
+[03:07:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:07:10] [Server thread/INFO]: Using epoll channel type
+[03:07:10] [Server thread/INFO]: Preparing level "Kovidland"
+[03:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
+[03:07:22] [Server thread/INFO]: Time elapsed: 11342 ms
+[03:07:22] [Server thread/INFO]: Done (11.942s)! For help, type "help"
+[03:07:45] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[03:07:45] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:50724] logged in with entity id 142 at (-97.8229665890687, 64.0, 1997.0502484745648)
+[03:07:45] [Server thread/INFO]: ProvidedSolid joined the game
+[03:08:01] [User Authenticator #2/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[03:08:01] [Server thread/INFO]: memohcepgi[/25.3.27.60:4349] logged in with entity id 419 at (-120.62911507451304, 32.0, 211.47351264480702)
+[03:08:01] [Server thread/INFO]: memohcepgi joined the game
+[03:08:54] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[03:08:54] [Server thread/INFO]: lunarTroop[/25.3.255.127:52943] logged in with entity id 1085 at (-160.8942908822483, 69.5625, 197.8868233951695)
+[03:08:54] [Server thread/INFO]: lunarTroop joined the game
+[03:13:30] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
+[03:15:35] [User Authenticator #4/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[03:15:35] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56436] logged in with entity id 3904 at (-160.28562118942455, 69.0, 197.39621532388918)
+[03:15:35] [Server thread/INFO]: EvilliveFuad joined the game
+[03:16:39] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
+[03:22:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:22:40] [Server thread/INFO]: Teleport ProvidedSolid lunarTroop<--[HERE]
+[03:23:01] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
+[03:23:01] [Server thread/WARN]: ProvidedSolid moved too quickly! -187.566746860977,6.0,-2826.418950613923
+[03:23:26] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
+[03:34:15] [Server thread/INFO]: EvilliveFuad was slain by lunarTroop
+[03:37:00] [Server thread/INFO]: memohcepgi was blown up by Creeper
+[04:16:39] [Server thread/INFO]: EvilliveFuad has made the advancement [Eye Spy]
+[04:16:44] [Server thread/INFO]: lunarTroop has made the advancement [Eye Spy]
+[04:16:49] [Server thread/INFO]: ProvidedSolid has made the advancement [Eye Spy]
+[04:16:53] [Server thread/INFO]: memohcepgi has made the advancement [Eye Spy]
+[04:23:37] [Server thread/INFO]: lunarTroop has made the advancement [Not Today, Thank You]
+[04:38:09] [Server thread/INFO]: EvilliveFuad was blown up by Creeper
+[04:38:40] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[04:38:40] [Server thread/INFO]: ProvidedSolid left the game
+[04:39:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:39:19] [Server thread/INFO]: teleportteleport EvilliveFuad memohcepgi<--[HERE]
+[04:39:38] [Server thread/INFO]: Teleported EvilliveFuad to memohcepgi
+[04:39:46] [User Authenticator #5/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[04:39:46] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:50798] logged in with entity id 21397 at (-936.6288314997411, 13.0, 1277.300000011921)
+[04:39:46] [Server thread/INFO]: ProvidedSolid joined the game
+[04:47:01] [Server thread/WARN]: memohcepgi moved wrongly!
+[05:07:51] [Server thread/WARN]: ProvidedSolid moved wrongly!
+[05:07:53] [Server thread/WARN]: ProvidedSolid moved wrongly!
+[05:26:45] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
+[05:27:03] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
+[05:31:06] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[05:31:06] [Server thread/INFO]: memohcepgi left the game
+[05:31:20] [User Authenticator #6/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[05:31:20] [Server thread/INFO]: memohcepgi[/25.3.27.60:4553] logged in with entity id 28726 at (-935.8561459719924, 23.0, 1193.6409967449622)
+[05:31:20] [Server thread/INFO]: memohcepgi joined the game
+[05:35:18] [Server thread/INFO]: Teleported EvilliveFuad to lunarTroop
+[05:35:33] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
+[05:52:40] [Server thread/INFO]: lunarTroop has made the advancement [Local Brewery]
+[05:56:45] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[05:56:45] [Server thread/INFO]: EvilliveFuad left the game
+[05:57:06] [User Authenticator #7/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[05:57:06] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56549] logged in with entity id 33537 at (-120.69999998807907, 37.0, 59.408899443756326)
+[05:57:06] [Server thread/INFO]: EvilliveFuad joined the game
+[05:58:27] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[05:58:27] [Server thread/INFO]: memohcepgi left the game
+[05:58:42] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[05:58:42] [Server thread/INFO]: EvilliveFuad left the game
+[05:58:45] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[05:58:45] [Server thread/INFO]: ProvidedSolid left the game
