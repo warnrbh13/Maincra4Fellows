@@ -1,95 +1,295 @@
-[03:07:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:07:04] [main/INFO]: Reloading ResourceManager: Default
-[03:07:06] [Worker-Main-12/INFO]: Loaded 7 recipes
-[03:07:07] [Worker-Main-12/INFO]: Loaded 927 advancements
-[03:07:09] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[03:07:09] [Server thread/INFO]: Loading properties
-[03:07:09] [Server thread/INFO]: Default game type: SURVIVAL
-[03:07:09] [Server thread/INFO]: Generating keypair
-[03:07:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:07:10] [Server thread/INFO]: Using epoll channel type
-[03:07:10] [Server thread/INFO]: Preparing level "Kovidland"
-[03:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:17] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:19] [Server thread/INFO]: Preparing spawn area: 0%
-[03:07:22] [Server thread/INFO]: Time elapsed: 11342 ms
-[03:07:22] [Server thread/INFO]: Done (11.942s)! For help, type "help"
-[03:07:45] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[03:07:45] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:50724] logged in with entity id 142 at (-97.8229665890687, 64.0, 1997.0502484745648)
-[03:07:45] [Server thread/INFO]: ProvidedSolid joined the game
-[03:08:01] [User Authenticator #2/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[03:08:01] [Server thread/INFO]: memohcepgi[/25.3.27.60:4349] logged in with entity id 419 at (-120.62911507451304, 32.0, 211.47351264480702)
-[03:08:01] [Server thread/INFO]: memohcepgi joined the game
-[03:08:54] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[03:08:54] [Server thread/INFO]: lunarTroop[/25.3.255.127:52943] logged in with entity id 1085 at (-160.8942908822483, 69.5625, 197.8868233951695)
-[03:08:54] [Server thread/INFO]: lunarTroop joined the game
-[03:13:30] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
-[03:15:35] [User Authenticator #4/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[03:15:35] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56436] logged in with entity id 3904 at (-160.28562118942455, 69.0, 197.39621532388918)
-[03:15:35] [Server thread/INFO]: EvilliveFuad joined the game
-[03:16:39] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
-[03:22:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:22:40] [Server thread/INFO]: Teleport ProvidedSolid lunarTroop<--[HERE]
-[03:23:01] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
-[03:23:01] [Server thread/WARN]: ProvidedSolid moved too quickly! -187.566746860977,6.0,-2826.418950613923
-[03:23:26] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
-[03:34:15] [Server thread/INFO]: EvilliveFuad was slain by lunarTroop
-[03:37:00] [Server thread/INFO]: memohcepgi was blown up by Creeper
-[04:16:39] [Server thread/INFO]: EvilliveFuad has made the advancement [Eye Spy]
-[04:16:44] [Server thread/INFO]: lunarTroop has made the advancement [Eye Spy]
-[04:16:49] [Server thread/INFO]: ProvidedSolid has made the advancement [Eye Spy]
-[04:16:53] [Server thread/INFO]: memohcepgi has made the advancement [Eye Spy]
-[04:23:37] [Server thread/INFO]: lunarTroop has made the advancement [Not Today, Thank You]
-[04:38:09] [Server thread/INFO]: EvilliveFuad was blown up by Creeper
-[04:38:40] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[04:38:40] [Server thread/INFO]: ProvidedSolid left the game
-[04:39:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:39:19] [Server thread/INFO]: teleportteleport EvilliveFuad memohcepgi<--[HERE]
-[04:39:38] [Server thread/INFO]: Teleported EvilliveFuad to memohcepgi
-[04:39:46] [User Authenticator #5/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[04:39:46] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:50798] logged in with entity id 21397 at (-936.6288314997411, 13.0, 1277.300000011921)
-[04:39:46] [Server thread/INFO]: ProvidedSolid joined the game
-[04:47:01] [Server thread/WARN]: memohcepgi moved wrongly!
-[05:07:51] [Server thread/WARN]: ProvidedSolid moved wrongly!
-[05:07:53] [Server thread/WARN]: ProvidedSolid moved wrongly!
-[05:26:45] [Server thread/INFO]: Teleported memohcepgi to lunarTroop
-[05:27:03] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
-[05:31:06] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[05:31:06] [Server thread/INFO]: memohcepgi left the game
-[05:31:20] [User Authenticator #6/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[05:31:20] [Server thread/INFO]: memohcepgi[/25.3.27.60:4553] logged in with entity id 28726 at (-935.8561459719924, 23.0, 1193.6409967449622)
-[05:31:20] [Server thread/INFO]: memohcepgi joined the game
-[05:35:18] [Server thread/INFO]: Teleported EvilliveFuad to lunarTroop
-[05:35:33] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
-[05:52:40] [Server thread/INFO]: lunarTroop has made the advancement [Local Brewery]
-[05:56:45] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[05:56:45] [Server thread/INFO]: EvilliveFuad left the game
-[05:57:06] [User Authenticator #7/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[05:57:06] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:56549] logged in with entity id 33537 at (-120.69999998807907, 37.0, 59.408899443756326)
-[05:57:06] [Server thread/INFO]: EvilliveFuad joined the game
-[05:58:27] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[05:58:27] [Server thread/INFO]: memohcepgi left the game
-[05:58:42] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[05:58:42] [Server thread/INFO]: EvilliveFuad left the game
-[05:58:45] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[05:58:45] [Server thread/INFO]: ProvidedSolid left the game
+[00:00:27] [Server thread/INFO]: <memohcepgi> jija de su madre xd
+[00:00:30] [Server thread/INFO]: <ProvidedSolid> xddddd
+[00:04:57] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[00:04:57] [Server thread/INFO]: ProvidedSolid left the game
+[00:04:59] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[00:04:59] [Server thread/INFO]: memohcepgi left the game
+[00:05:08] [User Authenticator #21/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[00:05:08] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:53068] logged in with entity id 23547 at (-272.0701120859439, 19.0, 302.88921719946586)
+[00:05:08] [Server thread/INFO]: ProvidedSolid joined the game
+[00:05:15] [User Authenticator #22/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[00:05:15] [Server thread/INFO]: memohcepgi[/25.3.27.60:13395] logged in with entity id 23658 at (-273.76219360282977, 23.0, 296.30000001192093)
+[00:05:15] [Server thread/INFO]: memohcepgi joined the game
+[00:07:40] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[00:07:40] [Server thread/INFO]: memohcepgi left the game
+[00:07:53] [User Authenticator #23/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[00:07:53] [Server thread/INFO]: memohcepgi[/25.3.27.60:13399] logged in with entity id 24188 at (-268.39081700529704, 16.0, 291.30000001192093)
+[00:07:53] [Server thread/INFO]: memohcepgi joined the game
+[00:10:20] [User Authenticator #24/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[00:10:20] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:49524] logged in with entity id 24722 at (-158.64568197663016, 69.0, 197.11644990094467)
+[00:10:20] [Server thread/INFO]: EvilliveFuad joined the game
+[00:11:17] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[00:11:17] [Server thread/INFO]: EvilliveFuad left the game
+[00:12:47] [Server thread/INFO]: <memohcepgi> aber leo que hacer
+[00:13:51] [Server thread/INFO]: <ProvidedSolid> necesito escaleras :'v me voy a rifar yo amigo, porque esto es muy peligroso y es altamente probable
+[00:13:54] [Server thread/INFO]: <ProvidedSolid> ahhhh no xd
+[00:14:01] [Server thread/INFO]: <ProvidedSolid> primero hay que poner el abuita
+[00:14:11] [Server thread/INFO]: <ProvidedSolid> traes cubo de abua?
+[00:14:23] [Server thread/INFO]: <memohcepgi> no pero hay hierro
+[00:14:35] [Server thread/INFO]: <ProvidedSolid> yo traigo dos, pero decia para no tener que subir xd
+[00:14:43] [Server thread/INFO]: <ProvidedSolid> a llenar el otro de abua
+[00:31:52] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[00:31:52] [Server thread/INFO]: lunarTroop left the game
+[00:32:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@53ce7945[id=<null>,name=EvilliveFuad,properties={},legacy=false] (/25.38.45.167:49557) lost connection: Disconnected
+[00:32:39] [User Authenticator #25/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[00:32:39] [Server thread/INFO]: EvilliveFuad[/25.38.45.167:49558] logged in with entity id 28960 at (-158.64568197663016, 69.0, 197.11644990094467)
+[00:32:39] [Server thread/INFO]: EvilliveFuad joined the game
+[00:33:11] [Server thread/INFO]: EvilliveFuad lost connection: Timed out
+[00:33:11] [Server thread/INFO]: EvilliveFuad left the game
+[00:37:50] [Server thread/INFO]: <memohcepgi> no me deja unir a la llamada
+[00:39:17] [Server thread/INFO]: <ProvidedSolid> tespera memo, ando buscando como xd
+[00:39:27] [Server thread/INFO]: <memohcepgi> si amigo
+[00:39:47] [Server thread/INFO]: <memohcepgi> no sera en dos niveles?
+[00:40:16] [Server thread/INFO]: <memohcepgi> prestame los cubos
+[00:42:01] [User Authenticator #26/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[00:42:01] [Server thread/INFO]: lunarTroop[/25.3.255.127:56303] logged in with entity id 29811 at (297.2148134076453, 76.46634750372172, 2135.7953886819582)
+[00:42:01] [Server thread/INFO]: lunarTroop joined the game
+[00:42:23] [Server thread/INFO]: <ProvidedSolid> traes escaleras de piedra para poner aqui?
+[00:46:55] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[00:51:23] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[00:52:07] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[00:52:07] [Server thread/INFO]: memohcepgi left the game
+[00:52:31] [User Authenticator #27/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[00:52:31] [Server thread/INFO]: memohcepgi[/25.3.27.60:13470] logged in with entity id 32231 at (-275.12924678947667, 19.5, 290.30000001192093)
+[00:52:31] [Server thread/INFO]: memohcepgi joined the game
+[00:53:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:48] [Server thread/INFO]: teleport ProvidedSolid spawn<--[HERE]
+[00:54:04] [Server thread/INFO]: No entity was found
+[01:11:44] [Server thread/INFO]: <ProvidedSolid> memoooo
+[01:11:48] [Server thread/INFO]: <ProvidedSolid> no las mateeeees
+[01:12:05] [Server thread/INFO]: <ProvidedSolid> quiero que se acumulen para medir que pedo, como que no estan cayendo o algo
+[01:12:22] [Server thread/INFO]: <ProvidedSolid> ven aqui abajoooo
+[01:12:53] [Server thread/INFO]: <ProvidedSolid> o ayudame para que me asome y ver si se estan atorando xd
+[01:13:13] [Server thread/INFO]: <memohcepgi> ok
+[01:13:22] [Server thread/INFO]: <ProvidedSolid> NO sientes que son muy poocas? xD
+[01:13:35] [Server thread/INFO]: <memohcepgi> pues, hace rato habian mas
+[01:14:54] [Server thread/INFO]: <ProvidedSolid> de vuelta al basurero :v me voy a asomar
+[01:15:04] [Server thread/INFO]: <memohcepgi> xDDD
+[01:15:11] [Server thread/INFO]: <memohcepgi> ok amigo
+[01:15:12] [Server thread/INFO]: <ProvidedSolid> tapa porfa amiko
+[01:15:15] [Server thread/INFO]: <memohcepgi> si
+[01:16:42] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[01:16:47] [Server thread/INFO]: <memohcepgi> nooooo
+[01:16:51] [Server thread/INFO]: <ProvidedSolid> duerme memo xD
+[01:17:02] [Server thread/INFO]: <ProvidedSolid> morire lo que sea necesario hasta que quede bien xD
+[01:18:15] [Server thread/INFO]: <ProvidedSolid> trecuperaste m,is cosa?
+[01:18:25] [Server thread/INFO]: <memohcepgi> no las vi llegar
+[01:18:44] [Server thread/INFO]: <ProvidedSolid> solo era una antorcha y un pico de piedra xdddd
+[01:18:49] [Server thread/INFO]: <memohcepgi> XD
+[01:18:56] [Server thread/INFO]: <ProvidedSolid> voy de nuevo xd
+[01:19:02] [Server thread/INFO]: <memohcepgi> le tapo
+[01:19:40] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[01:20:38] [Server thread/INFO]: <memohcepgi> si sube rapido jaja
+[01:20:39] [Server thread/INFO]: <ProvidedSolid> tdel otro lado hay mas exp
+[01:20:45] [Server thread/INFO]: <ProvidedSolid> tahora estan llegando mas no?
+[01:20:54] [Server thread/INFO]: <memohcepgi> si
+[01:21:02] [Server thread/INFO]: <ProvidedSolid> llega a nivel 30 para hacer la espada y matar a estas hijes de perre
+[01:21:13] [Server thread/INFO]: <ProvidedSolid> estes hejes de perre
+[01:21:14] [Server thread/INFO]: <memohcepgi> 29
+[01:21:45] [Server thread/INFO]: <ProvidedSolid> aqui vienen
+[01:21:51] [Server thread/INFO]: <ProvidedSolid> hay que dejar que se acumulen tantitas
+[01:22:02] [Server thread/INFO]: <memohcepgi> ok
+[01:22:12] [Server thread/INFO]: <ProvidedSolid> me estoy asomando para ve que vengan mas
+[01:22:20] [Server thread/INFO]: <ProvidedSolid> el chiste es que no paren de llegar
+[01:22:46] [Server thread/INFO]: <ProvidedSolid> aa huevoooo estan llegando varias
+[01:22:50] [Server thread/INFO]: <ProvidedSolid> vareeeeeeas
+[01:23:03] [Server thread/INFO]: <memohcepgi> siiii
+[01:23:20] [Server thread/INFO]: <ProvidedSolid> ya dales amigoooo
+[01:24:13] [Server thread/INFO]: <ProvidedSolid> Las telara;as velas metiendo en los cofres, los ojos igual
+[01:25:14] [Server thread/INFO]: <memohcepgi> 30!!
+[01:25:23] [Server thread/INFO]: <ProvidedSolid> abueboooo a encantar perrrrrrro
+[01:25:33] [Server thread/INFO]: <ProvidedSolid> yo traigo la espada
+[01:27:22] [Server thread/INFO]: <memohcepgi> WEEEEY
+[01:27:37] [Server thread/INFO]: <ProvidedSolid> ALAVERGAAA XD
+[01:27:43] [Server thread/INFO]: <ProvidedSolid> Con fire aspect xD
+[01:28:10] [Server thread/INFO]: <ProvidedSolid> a esta le tenemos que poner mending y unbreaking y dejarla en un cofre en la granja
+[01:28:20] [Server thread/INFO]: <memohcepgi> siii
+[01:28:46] [Server thread/INFO]: <ProvidedSolid> estrenala, deberia matarlas de un golpe
+[01:30:59] [Server thread/INFO]: <memohcepgi> asuputamadre
+[01:31:02] [Server thread/INFO]: <ProvidedSolid> xD
+[01:32:15] [Server thread/INFO]: <memohcepgi> dejaste la espada amigo?
+[01:32:20] [Server thread/INFO]: <memohcepgi> que haces XD
+[01:32:29] [Server thread/INFO]: <ProvidedSolid> no me voy a aventara
+[01:32:35] [Server thread/INFO]: <ProvidedSolid> es que cuando abro, salen mas xD
+[01:32:41] [Server thread/INFO]: <memohcepgi> ok
+[01:32:49] [Server thread/INFO]: <ProvidedSolid> tespera abajo, te vot a generar ara;as xD
+[01:32:52] [Server thread/INFO]: <ProvidedSolid> pero ven por
+[01:32:58] [Server thread/INFO]: <ProvidedSolid> jajaja, la espada xd
+[01:34:13] [Server thread/INFO]: <memohcepgi> esta muy pasada de verga XD
+[01:34:33] [Server thread/INFO]: <ProvidedSolid> deja que se junten un chingo para que mates mas de una de un putazo
+[01:37:28] [Server thread/INFO]: <memohcepgi> ven a ver XD
+[01:37:54] [Server thread/INFO]: <ProvidedSolid> ya son un chingo xD
+[01:38:36] [Server thread/INFO]: <memohcepgi> de 28 a 29 de una amigo xD
+[01:38:42] [Server thread/INFO]: <ProvidedSolid> no ma xD
+[01:39:04] [Server thread/INFO]: <memohcepgi> esta espada necesita quedarse aqui con mending como dices XD
+[01:39:14] [Server thread/INFO]: <memohcepgi> se viene la era de los encantamientos
+[01:39:19] [Server thread/INFO]: <memohcepgi> en nuestras caras
+[01:39:50] [Server thread/INFO]: <ProvidedSolid> en los otros cofres amigooo
+[01:39:59] [Server thread/INFO]: <memohcepgi> ah perdon
+[01:40:15] [Server thread/INFO]: <ProvidedSolid> a dromirts
+[01:41:01] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[01:41:01] [Server thread/INFO]: memohcepgi left the game
+[01:41:23] [User Authenticator #28/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[01:41:23] [Server thread/INFO]: memohcepgi[/25.3.27.60:13535] logged in with entity id 44161 at (-277.6820456629324, 22.0, 291.09529425407175)
+[01:41:23] [Server thread/INFO]: memohcepgi joined the game
+[01:41:32] [Server thread/INFO]: <memohcepgi> ya es de dia?
+[01:42:04] [Server thread/INFO]: <ProvidedSolid> ya
+[01:42:10] [Server thread/INFO]: <ProvidedSolid> que nivel eres amiko?
+[01:42:23] [Server thread/INFO]: <memohcepgi> 29.5
+[01:43:24] [Server thread/INFO]: <memohcepgi> esta bien matona
+[01:43:54] [Server thread/INFO]: <memohcepgi> una mas y 30
+[01:43:59] [Server thread/INFO]: <memohcepgi> que les encanto amigos
+[01:44:14] [Server thread/INFO]: <ProvidedSolid> encanta tus cosas amigo, mientras yo uso la granja
+[01:44:25] [Server thread/INFO]: <ProvidedSolid> mira
+[01:44:31] [Server thread/INFO]: <memohcepgi> te dejo la espada? :3
+[01:44:32] [Server thread/INFO]: <ProvidedSolid> para crear mas ara;as hay que subir aca
+[01:45:01] [Server thread/INFO]: <memohcepgi> y aqui no nos pueden tocar? :0
+[01:45:14] [Server thread/INFO]: <ProvidedSolid> no, asi no nos pueden tocar
+[01:45:27] [Server thread/INFO]: <memohcepgi> :0000
+[01:45:49] [Server thread/INFO]: <ProvidedSolid> de hecho ven, este es el defecto
+[01:46:07] [Server thread/INFO]: <ProvidedSolid> pero ese defecto tambien lo tenia la granja que hice con luna
+[01:46:21] [Server thread/INFO]: <memohcepgi> se quedan pegadas arriba?
+[01:46:25] [Server thread/INFO]: <ProvidedSolid> en esa esquina
+[01:46:50] [Server thread/INFO]: <ProvidedSolid> aunque de repente se caen xd
+[01:46:52] [Server thread/INFO]: <memohcepgi> hay un chingo XD
+[01:47:22] [Server thread/INFO]: <ProvidedSolid> yo creo que idealmente, hay que encerrar un aldeano aqui con nametag xddd
+[01:47:33] [Server thread/INFO]: <ProvidedSolid> jajaja asi ya seria muy eficiente, creo
+[01:47:34] [Server thread/INFO]: <memohcepgi> eso que hace?
+[01:48:37] [Server thread/INFO]: <ProvidedSolid> seria lo mismo que tener a un wey aqui, haria que spawmeen ara;as a lo wey
+[01:48:54] [Server thread/INFO]: <ProvidedSolid> xd
+[01:49:11] [Server thread/INFO]: <memohcepgi> hay que intentarloooo
+[01:49:19] [Server thread/INFO]: <memohcepgi> el fin de semana
+[01:49:27] [Server thread/INFO]: <ProvidedSolid> vavavava
+[01:49:29] [Server thread/INFO]: <memohcepgi> buscamos uno zombi xd
+[01:49:33] [Server thread/INFO]: <memohcepgi> o de una aldea
+[01:49:38] [Server thread/INFO]: <ProvidedSolid> hace rato escuche uno por aqui xd
+[01:50:16] [Server thread/INFO]: <memohcepgi> voy a encantar mis cosas
+[01:50:19] [Server thread/INFO]: <ProvidedSolid> tambien hay que poner aca una mesa de encantamiento
+[01:50:28] [Server thread/INFO]: <memohcepgi> y regreso a quedarme arriba
+[01:50:29] [Server thread/INFO]: <ProvidedSolid> ok amigo, dejame la espada para darle
+[01:50:34] [Server thread/INFO]: <memohcepgi> y ya le das hasta que te canses XD
+[01:52:03] [Server thread/INFO]: <memohcepgi> hay que dormir amigos
+[01:54:40] [Server thread/WARN]: ProvidedSolid moved too quickly! -7.855809219609796,6.5,0.3003974741243951
+[01:55:26] [Server thread/INFO]: <memohcepgi> amigoooo
+[01:55:38] [Server thread/INFO]: <memohcepgi> encante la otra y salio con fire aspect II XDD
+[01:55:56] [Server thread/INFO]: <ProvidedSolid> a huevo xD, ya vi. NO es necesario tener a dos weyes xD
+[01:56:20] [Server thread/INFO]: <ProvidedSolid> el punto de espera esd arriba, asi generas muchas y ya que se hagan un chingo, ya bajas y las matas xD
+[01:58:53] [Server thread/INFO]: <memohcepgi> ahuevooo
+[01:59:50] [Server thread/INFO]: <memohcepgi> ya amigo
+[01:59:54] [Server thread/INFO]: <memohcepgi> relevo
+[01:59:56] [Server thread/INFO]: <memohcepgi> bajate xd
+[02:00:12] [Server thread/INFO]: <memohcepgi> ya me voy, pero, dejo a este papu aqui hasta que se vayan
+[02:00:31] [Server thread/INFO]: <memohcepgi> solo regreso cada cierto tiempo para que no se muera de hambre XDD
+[02:00:32] [Server thread/INFO]: <ProvidedSolid> tigual nnosotros ya casi nos vamos amiko
+[02:02:23] [Server thread/INFO]: lunarTroop has made the advancement [What a Deal!]
+[02:03:01] [Server thread/INFO]: <memohcepgi> olv
+[02:03:08] [Server thread/INFO]: <memohcepgi> xD
+[02:03:23] [Server thread/INFO]: <ProvidedSolid> eso pudo salir mal xD es que quire unos slabs de ahi para que se viera mas vergas jJAJSJA
+[02:03:35] [Server thread/INFO]: <memohcepgi> JAJAJAJA
+[02:04:02] [Server thread/INFO]: <ProvidedSolid> ya los puse de nuevo xD
+[02:04:15] [Server thread/INFO]: <memohcepgi> ok amigo XDD
+[02:04:25] [Server thread/INFO]: <ProvidedSolid> tduermeeee
+[02:04:29] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[02:04:29] [Server thread/INFO]: memohcepgi left the game
+[02:04:46] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[02:04:46] [Server thread/INFO]: ProvidedSolid left the game
+[02:04:54] [User Authenticator #29/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[02:04:54] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:53194] logged in with entity id 49372 at (-274.02615859691576, 23.0, 286.44784003617593)
+[02:04:54] [Server thread/INFO]: ProvidedSolid joined the game
+[02:05:06] [User Authenticator #30/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:05:06] [Server thread/INFO]: memohcepgi[/25.3.27.60:13571] logged in with entity id 49490 at (-272.48557701422686, 23.0, 299.33292754088126)
+[02:05:06] [Server thread/INFO]: memohcepgi joined the game
+[02:05:38] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[02:05:38] [Server thread/INFO]: ProvidedSolid left the game
+[02:05:53] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[02:05:53] [Server thread/INFO]: memohcepgi left the game
+[02:06:38] [User Authenticator #31/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:06:38] [User Authenticator #32/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[02:06:38] [Server thread/INFO]: memohcepgi[/25.3.27.60:13602] logged in with entity id 49688 at (-272.1811085548929, 23.0, 296.3217133724306)
+[02:06:38] [Server thread/INFO]: memohcepgi joined the game
+[02:06:38] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:53230] logged in with entity id 49689 at (-272.53780758118165, 23.0, 299.94999998807907)
+[02:06:38] [Server thread/INFO]: ProvidedSolid joined the game
+[02:06:50] [Server thread/INFO]: <memohcepgi> listo
+[02:07:33] [Server thread/INFO]: <memohcepgi> luna sigue pescando? xD
+[02:07:43] [Server thread/INFO]: <memohcepgi> lunaaaaaaaaaa
+[02:07:44] [Server thread/INFO]: <ProvidedSolid> anda de Dora
+[02:07:52] [Server thread/INFO]: <memohcepgi> olb
+[02:07:54] [Server thread/INFO]: <ProvidedSolid> encontr'o una aldea de taiga
+[02:16:27] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[02:16:27] [Server thread/INFO]: lunarTroop left the game
+[02:16:39] [Server thread/INFO]: <ProvidedSolid> intenta dormir memo xD
+[02:17:41] [Server thread/INFO]: <ProvidedSolid> sal memooooooo
+[02:18:59] [Server thread/INFO]: Kicked memohcepgi: Kicked by an operator
+[02:18:59] [Server thread/INFO]: memohcepgi lost connection: Kicked by an operator
+[02:18:59] [Server thread/INFO]: memohcepgi left the game
+[02:19:23] [User Authenticator #33/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:19:23] [Server thread/INFO]: memohcepgi[/25.3.27.60:13616] logged in with entity id 52002 at (-272.73730875749396, 23.0, 299.94810211459827)
+[02:19:23] [Server thread/INFO]: memohcepgi joined the game
+[02:19:30] [Server thread/INFO]: <memohcepgi> me amarraron como puerco
+[02:19:33] [Server thread/INFO]: <ProvidedSolid> perdona amigo, tuve que sacarte xdddd
+[02:19:41] [Server thread/INFO]: <memohcepgi> ah para dormir? XD
+[02:19:47] [Server thread/INFO]: <ProvidedSolid> ci
+[02:19:48] [Server thread/INFO]: <memohcepgi> olvide ese detalle
+[02:19:56] [Server thread/INFO]: <memohcepgi> alcanzo a ver mi lap desde mi cama
+[02:20:04] [Server thread/INFO]: <memohcepgi> cuando sea hora de dormir ponlo aqui xd
+[02:20:10] [Server thread/INFO]: <memohcepgi> no me voy a dormir en la vida real
+[02:20:29] [User Authenticator #34/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[02:20:29] [Server thread/INFO]: lunarTroop[/25.3.255.127:58423] logged in with entity id 52175 at (535.2029394754335, 74.0, 3997.0244795453386)
+[02:20:29] [Server thread/INFO]: lunarTroop joined the game
+[02:26:29] [Server thread/INFO]: <memohcepgi> olb
+[02:26:34] [Server thread/INFO]: <memohcepgi> se coló una
+[02:26:50] [Server thread/INFO]: <memohcepgi> xF
+[02:27:47] [Server thread/INFO]: <ProvidedSolid> xD te dio en tu madre? igual podemos mejorar, la quiero hacer de cristal xD
+[02:28:05] [Server thread/INFO]: <memohcepgi> me dio unos golpecillos
+[02:28:13] [Server thread/INFO]: <memohcepgi> estaria bien de cristal XD
+[02:29:27] [Server thread/INFO]: <ProvidedSolid> voy a ir por el criko de una vez, para dejar esa madre chida
+[02:30:09] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[02:30:09] [Server thread/INFO]: lunarTroop left the game
+[02:30:45] [Server thread/INFO]: <ProvidedSolid> tduerme memooooooooo
+[02:30:53] [Server thread/INFO]: <ProvidedSolid> MEMO DUERME DUERME HIJO DE PERREEEEE DUERMEEEEE
+[02:31:47] [Server thread/INFO]: Kicked memohcepgi: Kicked by an operator
+[02:31:47] [Server thread/INFO]: memohcepgi lost connection: Kicked by an operator
+[02:31:47] [Server thread/INFO]: memohcepgi left the game
+[02:32:03] [User Authenticator #35/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[02:32:03] [Server thread/INFO]: lunarTroop[/25.3.255.127:58668] logged in with entity id 54653 at (510.9937712530101, 74.0, 4111.817908771586)
+[02:32:03] [Server thread/INFO]: lunarTroop joined the game
+[02:32:35] [User Authenticator #36/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:32:35] [Server thread/INFO]: memohcepgi[/25.3.27.60:13640] logged in with entity id 54966 at (-272.5182492904255, 23.0, 298.8470737578121)
+[02:32:35] [Server thread/INFO]: memohcepgi joined the game
+[02:32:39] [Server thread/INFO]: <memohcepgi> :3
+[02:33:25] [Server thread/INFO]: <ProvidedSolid> tamigo sal de ahi
+[02:33:32] [Server thread/INFO]: <ProvidedSolid> voy a remodelar :vvvv
+[02:36:40] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[02:37:36] [Server thread/INFO]: <memohcepgi> NOOOO
+[02:37:47] [Server thread/INFO]: <ProvidedSolid> amigooo pense quie me estabas cubriendo xD
+[02:37:59] [Server thread/INFO]: lunarTroop was blown up by Creeper
+[02:38:09] [Server thread/INFO]: <memohcepgi> solo me gire por mi celular amigo :C
+[02:38:22] [Server thread/INFO]: <memohcepgi> fueron unos segundos :C perdoname
+[02:38:50] [Server thread/INFO]: <memohcepgi> yo te encanto tus cosas :3
+[02:38:58] [Server thread/INFO]: <ProvidedSolid> xD
+[02:42:38] [Server thread/INFO]: Teleported lunarTroop to -169.5, 80.0, 200.5
+[02:43:19] [Server thread/INFO]: Teleported lunarTroop to 821.5, 99.0, 3998.5
+[02:43:20] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/56900, l='ServerLevel[Kovidland]', x=820.35, y=101.05, z=3998.19]
+[02:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:44:52] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[02:44:52] [Server thread/INFO]: lunarTroop left the game
+[02:45:01] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[02:45:01] [Server thread/INFO]: memohcepgi left the game
+[02:45:37] [User Authenticator #37/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[02:45:37] [Server thread/INFO]: memohcepgi[/25.3.27.60:13658] logged in with entity id 57553 at (-272.6033474728348, 23.0, 300.03240061247874)
+[02:45:37] [Server thread/INFO]: memohcepgi joined the game
+[02:45:55] [Server thread/INFO]: <ProvidedSolid> traes mi comida memo?
+[02:46:03] [Server thread/INFO]: <memohcepgi> no amigo
+[02:46:08] [Server thread/INFO]: <memohcepgi> pero te puedo dejar comida
+[02:46:39] [Server thread/INFO]: <memohcepgi> ya debo irme amigo
+[02:46:46] [Server thread/INFO]: <ProvidedSolid> ok amigoooo igual noisotros
+[02:46:47] [Server thread/INFO]: <memohcepgi> nos vemos mañana bros
+[02:46:49] [Server thread/INFO]: <ProvidedSolid> descansa
+[02:46:50] [Server thread/INFO]: <memohcepgi> los amor
+[02:46:52] [Server thread/INFO]: <memohcepgi> amo
+[02:46:55] [Server thread/INFO]: <memohcepgi> descansen
+[02:46:57] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[02:46:57] [Server thread/INFO]: memohcepgi left the game
+[02:50:57] [Server thread/INFO]: ProvidedSolid was slain by Cave Spider
+[02:59:38] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[02:59:38] [Server thread/INFO]: ProvidedSolid left the game
