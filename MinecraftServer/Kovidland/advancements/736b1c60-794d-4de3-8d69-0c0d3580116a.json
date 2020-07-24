@@ -587,6 +587,7 @@
       "minecraft:phantom": "2020-07-18 03:37:49 -0500",
       "minecraft:zombified_piglin": "2020-07-18 22:30:25 -0500",
       "minecraft:cave_spider": "2020-07-22 23:04:11 -0500",
+      "minecraft:piglin": "2020-07-24 01:22:38 -0500",
       "minecraft:enderman": "2020-07-21 20:00:38 -0500",
       "minecraft:silverfish": "2020-07-22 00:19:26 -0500",
       "minecraft:zombie": "2020-07-17 23:04:42 -0500",
@@ -1672,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-07-24 01:19:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2020-07-17 23:11:38 -0500"
@@ -1880,6 +1887,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2020-07-18 02:01:08 -0500",
+      "minecraft:chicken": "2020-07-23 22:19:02 -0500",
       "minecraft:wolf": "2020-07-18 00:02:01 -0500"
     },
     "done": false
@@ -2811,6 +2819,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2020-07-21 23:06:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-07-24 01:03:20 -0500"
     },
     "done": true
   },

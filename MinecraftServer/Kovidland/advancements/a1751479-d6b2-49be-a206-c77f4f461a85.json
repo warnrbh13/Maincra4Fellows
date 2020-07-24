@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-07-23 23:56:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-07-17 23:00:04 -0500"
@@ -492,6 +498,7 @@
       "minecraft:phantom": "2020-07-18 03:40:26 -0500",
       "minecraft:zombified_piglin": "2020-07-21 19:01:59 -0500",
       "minecraft:wither_skeleton": "2020-07-18 03:10:50 -0500",
+      "minecraft:cave_spider": "2020-07-23 21:43:07 -0500",
       "minecraft:piglin": "2020-07-21 19:04:03 -0500",
       "minecraft:enderman": "2020-07-18 03:06:35 -0500",
       "minecraft:zombie": "2020-07-17 23:27:31 -0500",
@@ -779,6 +786,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-07-17 23:00:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-07-24 01:14:04 -0500"
     },
     "done": true
   },
@@ -1334,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-07-24 01:14:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2020-07-18 02:18:35 -0500"
@@ -1367,6 +1386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-07-18 01:22:22 -0500",
+      "chicken": "2020-07-24 00:43:44 -0500",
       "cooked_mutton": "2020-07-17 23:29:51 -0500",
       "sweet_berries": "2020-07-18 03:49:35 -0500",
       "cooked_beef": "2020-07-18 03:06:41 -0500",
@@ -1770,6 +1790,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2020-07-18 01:06:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-07-23 23:56:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-07-24 01:14:04 -0500"
     },
     "done": true
   },
@@ -2295,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-07-23 23:56:45 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-18 02:34:25 -0500"
@@ -2400,6 +2438,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-18 02:34:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-07-24 01:03:29 -0500"
     },
     "done": true
   },
