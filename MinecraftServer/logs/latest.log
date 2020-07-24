@@ -1,57 +1,47 @@
-[19:29:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[19:29:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:29:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:29:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:29:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:29:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:29:22] [main/INFO]: Reloading ResourceManager: Default
-[19:29:24] [Worker-Main-4/INFO]: Loaded 7 recipes
-[19:29:25] [Worker-Main-4/INFO]: Loaded 927 advancements
-[19:29:26] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[19:29:26] [Server thread/INFO]: Loading properties
-[19:29:26] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:26] [Server thread/INFO]: Generating keypair
-[19:29:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:27] [Server thread/INFO]: Using epoll channel type
-[19:29:28] [Server thread/INFO]: Preparing level "Kovidland"
-[19:29:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:38] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:29:39] [Server thread/INFO]: Preparing spawn area: 83%
-[19:29:39] [Server thread/INFO]: Time elapsed: 11198 ms
-[19:29:39] [Server thread/INFO]: Done (11.718s)! For help, type "help"
-[19:37:06] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[19:37:06] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:44626] logged in with entity id 196 at (-267.6542438876472, 15.0, 288.23659740754147)
-[19:37:06] [Server thread/INFO]: ProvidedSolid joined the game
-[19:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:37:44] [User Authenticator #2/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[19:37:44] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:54286] logged in with entity id 338 at (-158.64568197663016, 69.0, 197.11644990094467)
-[19:37:44] [Server thread/INFO]: EvilliveFuad joined the game
-[19:38:17] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[19:38:17] [Server thread/INFO]: EvilliveFuad left the game
-[19:40:00] [User Authenticator #3/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[19:40:00] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:54291] logged in with entity id 702 at (-158.64568197663016, 69.0, 197.11644990094467)
-[19:40:00] [Server thread/INFO]: EvilliveFuad joined the game
-[19:40:49] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[19:40:49] [Server thread/INFO]: EvilliveFuad left the game
-[19:44:03] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[19:44:03] [Server thread/INFO]: ProvidedSolid left the game
+[20:03:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:03:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:03:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:03:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:03:32] [main/INFO]: Reloading ResourceManager: Default
+[20:03:34] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:03:36] [Worker-Main-4/INFO]: Loaded 927 advancements
+[20:03:38] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[20:03:38] [Server thread/INFO]: Loading properties
+[20:03:38] [Server thread/INFO]: Default game type: SURVIVAL
+[20:03:38] [Server thread/INFO]: Generating keypair
+[20:03:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:03:38] [Server thread/INFO]: Using epoll channel type
+[20:03:39] [Server thread/INFO]: Preparing level "Kovidland"
+[20:03:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:42] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:43] [Server thread/INFO]: Time elapsed: 3841 ms
+[20:03:43] [Server thread/INFO]: Done (4.110s)! For help, type "help"
+[20:05:40] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[20:05:40] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:44716] logged in with entity id 189 at (-272.6138516899573, 23.0, 293.91828094005024)
+[20:05:40] [Server thread/INFO]: ProvidedSolid joined the game
+[20:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:26:46] [User Authenticator #2/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[20:26:46] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:54599] logged in with entity id 2339 at (-158.64568197663016, 69.0, 197.11644990094467)
+[20:26:46] [Server thread/INFO]: EvilliveFuad joined the game
+[20:27:29] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[20:27:29] [Server thread/INFO]: EvilliveFuad left the game
+[20:28:17] [User Authenticator #3/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[20:28:17] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:54601] logged in with entity id 2568 at (-158.64568197663016, 69.0, 197.11644990094467)
+[20:28:17] [Server thread/INFO]: EvilliveFuad joined the game
+[20:28:47] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[20:28:47] [Server thread/INFO]: EvilliveFuad left the game
+[20:39:16] [User Authenticator #4/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
+[20:39:17] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:54865] logged in with entity id 3699 at (-158.64568197663016, 69.0, 197.11644990094467)
+[20:39:17] [Server thread/INFO]: EvilliveFuad joined the game
+[20:40:07] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
+[20:40:07] [Server thread/INFO]: EvilliveFuad left the game
+[20:44:36] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[20:44:36] [Server thread/INFO]: ProvidedSolid left the game
