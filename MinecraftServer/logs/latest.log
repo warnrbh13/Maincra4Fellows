@@ -1,146 +1,200 @@
-[00:04:58] [Server thread/INFO]: <EvilliveFuad> 107 12 330
-[00:06:27] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:06:27] [Server thread/INFO]: lunarTroop left the game
-[00:08:53] [Server thread/INFO]: <EvilliveFuad> 80 10 332
-[00:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[00:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
-[00:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:17:37] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[00:17:38] [Server thread/INFO]: EvilliveFuad left the game
-[00:17:49] [User Authenticator #11/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[00:17:50] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:55937] logged in with entity id 38013 at (-159.19271707289536, 69.0, 199.29858496403935)
-[00:17:51] [Server thread/INFO]: EvilliveFuad joined the game
-[00:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[00:23:30] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[00:23:30] [Server thread/INFO]: ProvidedSolid left the game
-[00:24:57] [User Authenticator #12/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:24:58] [Server thread/INFO]: lunarTroop[/25.3.255.127:60019] logged in with entity id 39583 at (1223.4298723501122, 126.0, 4214.267978111673)
-[00:24:58] [Server thread/INFO]: lunarTroop joined the game
-[00:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
-[00:25:01] [User Authenticator #13/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[00:25:02] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:35512] logged in with entity id 39659 at (-222.80770355972535, 10.0, 446.12747252305417)
-[00:25:02] [Server thread/INFO]: ProvidedSolid joined the game
-[00:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8200ms or 164 ticks behind
-[00:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8205ms or 164 ticks behind
-[00:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5347ms or 106 ticks behind
-[00:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7282ms or 145 ticks behind
-[00:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[00:27:56] [Server thread/WARN]: ProvidedSolid moved wrongly!
-[00:31:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:31:06] [Server thread/INFO]: searchitems<--[HERE]
-[00:31:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:31:31] [Server thread/INFO]: searchitems lunarTroop<--[HERE]
-[00:31:49] [Server thread/INFO]: <lunarTroop> */searchitem wall_torch
-[00:32:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:32:45] [Server thread/INFO]: searchitems/searchitems wall_torch<--[HERE]
-[00:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[00:33:07] [Server thread/INFO]: lunarTroop fell from a high place
-[00:33:46] [Server thread/INFO]: Teleported lunarTroop to 1223.5, 72.0, 4201.5
-[00:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9215ms or 184 ticks behind
-[00:34:30] [Server thread/WARN]: lunarTroop moved too quickly! -3.8931192422578533,1.0,9.22398992665785
-[00:34:30] [Server thread/WARN]: ProvidedSolid moved too quickly! -4.556120738275695,4.0,8.043068116078473
-[00:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9644ms or 192 ticks behind
-[00:35:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
-[00:36:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[00:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
-[00:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
-[00:38:55] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:38:55] [Server thread/INFO]: lunarTroop left the game
-[00:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10300ms or 206 ticks behind
-[00:38:55] [Server thread/INFO]: ProvidedSolid lost connection: Timed out
-[00:38:55] [Server thread/INFO]: ProvidedSolid left the game
-[00:39:09] [User Authenticator #14/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:39:10] [Server thread/INFO]: lunarTroop[/25.3.255.127:60278] logged in with entity id 42002 at (1327.573439864031, 70.0, 4135.155780848434)
-[00:39:10] [Server thread/INFO]: lunarTroop joined the game
-[00:39:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
-[00:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[00:40:08] [User Authenticator #15/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[00:40:08] [Server thread/INFO]: memohcepgi[/25.3.27.60:34391] logged in with entity id 42261 at (-247.22444137054484, 11.0, 282.77110205473394)
-[00:40:08] [Server thread/INFO]: memohcepgi joined the game
-[00:40:13] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[00:40:13] [Server thread/INFO]: memohcepgi left the game
-[00:40:44] [User Authenticator #16/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[00:40:44] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:35562] logged in with entity id 42414 at (-271.69999998807907, 15.0, 281.3384300899507)
-[00:40:44] [Server thread/INFO]: ProvidedSolid joined the game
-[00:40:45] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/42363, l='ServerLevel[Kovidland]', x=-269.25, y=15.56, z=293.00]
-[00:41:29] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:41:29] [Server thread/INFO]: lunarTroop left the game
-[00:43:48] [User Authenticator #17/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:43:48] [Server thread/INFO]: lunarTroop[/25.3.255.127:60362] logged in with entity id 42855 at (1358.699999988079, 70.0, 4149.699999988079)
-[00:43:48] [Server thread/INFO]: lunarTroop joined the game
-[00:43:52] [Server thread/WARN]: ProvidedSolid moved too quickly! -10.165092551849114,-0.5625,0.8401778107118503
-[00:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
-[00:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4130ms or 82 ticks behind
-[00:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
-[00:53:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=1353, y=60, z=4187} fu{x=1353, y=59, z=4187}
-[00:54:49] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:54:49] [Server thread/INFO]: lunarTroop left the game
-[01:00:01] [User Authenticator #18/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:00:02] [Server thread/INFO]: lunarTroop[/25.3.255.127:60673] logged in with entity id 46236 at (1353.7476996420373, 62.0, 4181.363380251417)
-[01:00:02] [Server thread/INFO]: lunarTroop joined the game
-[01:00:07] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[01:00:07] [Server thread/INFO]: lunarTroop left the game
-[01:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7500ms or 150 ticks behind
-[01:03:41] [User Authenticator #19/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:03:41] [Server thread/INFO]: lunarTroop[/25.3.255.127:60740] logged in with entity id 46701 at (1353.7476996420373, 62.0, 4181.363380251417)
-[01:03:41] [Server thread/INFO]: lunarTroop joined the game
-[01:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
-[01:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5634ms or 112 ticks behind
-[01:07:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=1332, y=69, z=4177} fu{x=1333, y=67, z=4177}
-[01:07:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=1334, y=69, z=4178} fu{x=1335, y=68, z=4178}
-[01:08:46] [Server thread/WARN]: ProvidedSolid moved too quickly! -0.9388724459220157,-2.380023674395531,10.024031731616958
-[01:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4156ms or 83 ticks behind
-[01:08:53] [Server thread/WARN]: ProvidedSolid moved too quickly! 0.04232223859477813,-1.0,10.133206023237562
-[01:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[01:09:42] [Server thread/WARN]: lunarTroop moved too quickly! 3.4584426260312284,-2.024424088213692,-9.374814579482972
-[01:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28386ms or 567 ticks behind
-[01:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[01:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5588ms or 111 ticks behind
-[01:11:12] [Server thread/WARN]: EvilliveFuad was kicked for floating too long!
-[01:11:12] [Server thread/INFO]: EvilliveFuad lost connection: Flying is not enabled on this server
-[01:11:12] [Server thread/INFO]: EvilliveFuad left the game
-[01:11:17] [Server thread/WARN]: ProvidedSolid moved too quickly! 9.790403877066808,1.8787031594607981,1.0887184262097378
-[01:11:17] [Server thread/WARN]: lunarTroop moved too quickly! -0.5615047233150108,1.0,-10.083315259839765
-[01:11:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5192ms or 103 ticks behind
-[01:11:21] [User Authenticator #20/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[01:11:21] [Server thread/INFO]: EvilliveFuad[/25.0.97.8:56078] logged in with entity id 49254 at (-172.07912086983765, 77.75220334025373, 195.59010128933556)
-[01:11:21] [Server thread/INFO]: EvilliveFuad joined the game
-[01:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
-[01:12:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
-[01:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
-[01:12:44] [User Authenticator #21/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
-[01:12:45] [Server thread/INFO]: memohcepgi[/25.3.27.60:34672] logged in with entity id 49548 at (-247.22444137054484, 11.0, 282.77110205473394)
-[01:12:45] [Server thread/INFO]: memohcepgi joined the game
-[01:13:24] [Server thread/WARN]: memohcepgi moved too quickly! 0.09541141317527035,0.0,10.051396643562896
-[01:15:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3286ms or 65 ticks behind
-[01:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
-[01:19:40] [Server thread/INFO]: memohcepgi has made the advancement [Who is Cutting Onions?]
-[01:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[01:23:37] [Server thread/INFO]: EvilliveFuad was slain by Zombified Piglin
-[01:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[01:24:30] [Server thread/INFO]: memohcepgi was slain by Zombie
-[01:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:25:57] [Server thread/INFO]: EvilliveFuad was slain by Piglin
-[01:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[01:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
-[01:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
-[01:31:25] [Server thread/INFO]: Teleported lunarTroop to ProvidedSolid
-[01:34:47] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[01:34:47] [Server thread/INFO]: EvilliveFuad left the game
-[01:35:00] [Server thread/INFO]: memohcepgi lost connection: Disconnected
-[01:35:00] [Server thread/INFO]: memohcepgi left the game
-[01:35:39] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[01:35:39] [Server thread/INFO]: ProvidedSolid left the game
-[01:36:24] [Server thread/INFO]: Stopping server
-[01:36:24] [Server thread/INFO]: Saving players
-[01:36:24] [Server thread/INFO]: Saving worlds
-[01:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
-[01:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[01:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
-[01:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
-[01:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[01:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:36:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:01:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-57, y=14, z=140} fu{x=-57, y=13, z=140}
+[00:03:48] [Server thread/INFO]: ProvidedSolid has made the advancement [Hidden in the Depths]
+[00:25:32] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:25:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-199, y=11, z=144} fu{x=-198, y=11, z=144}
+[00:50:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-317, y=16, z=142} fu{x=-318, y=16, z=143}
+[00:50:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-317, y=16, z=142} fu{x=-318, y=16, z=143}
+[00:50:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-317, y=16, z=142} fu{x=-318, y=16, z=143}
+[00:50:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-318, y=10, z=143} fu{x=-321, y=10, z=144}
+[00:50:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-318, y=10, z=143} fu{x=-321, y=10, z=144}
+[00:50:55] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-318, y=10, z=143} fu{x=-321, y=10, z=144}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=10, z=137} fu{x=-320, y=9, z=138}
+[00:51:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=11, z=136} fu{x=-324, y=9, z=139}
+[00:51:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=11, z=136} fu{x=-324, y=9, z=139}
+[00:51:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=11, z=136} fu{x=-324, y=9, z=139}
+[00:51:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-320, y=11, z=136} fu{x=-324, y=9, z=139}
+[00:53:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-339, y=15, z=145} fu{x=-339, y=14, z=144}
+[00:53:15] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=14, z=144} fu{x=-339, y=14, z=144}
+[00:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-342, y=15, z=144} fu{x=-342, y=14, z=144}
+[00:53:38] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-348, y=12, z=140} fu{x=-351, y=12, z=140}
+[00:55:06] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-351, y=13, z=145} fu{x=-351, y=12, z=145}
+[01:03:50] [Server thread/INFO]: <memohcepgi> AMIGOS
+[01:03:54] [Server thread/INFO]: <memohcepgi> ENCONTRE!
+[01:06:17] [Server thread/INFO]: <ProvidedSolid> DIAMANTES?
+[01:07:41] [Server thread/INFO]: <memohcepgi> una razon para vivir
+[01:07:45] [Server thread/INFO]: <memohcepgi> ustedes <3
+[01:07:59] [Server thread/INFO]: <memohcepgi> OH Y NETHERITA
+[01:08:41] [Server thread/INFO]: <memohcepgi> voy por mas camas
+[01:08:46] [Server thread/INFO]: <memohcepgi> quieren algo de arriba?
+[01:08:47] [Server thread/INFO]: <ProvidedSolid> dos lingotes JAJA xd
+[01:09:08] [Server thread/INFO]: <ProvidedSolid> de paso ven por pico de diamante para que saquen esa madre
+[01:10:25] [Server thread/INFO]: <memohcepgi> ok
+[01:10:31] [Server thread/INFO]: <memohcepgi> solo eso?
+[01:10:47] [Server thread/INFO]: <ProvidedSolid> Aja, es lo unico que les falltaba no?
+[01:10:47] [Server thread/INFO]: <memohcepgi> un cafecito siono
+[01:14:19] [Server thread/INFO]: <memohcepgi> duerme :3
+[01:14:27] [Server thread/INFO]: <ProvidedSolid> por
+[01:15:16] [Server thread/INFO]: <ProvidedSolid> ya dormiiiiii
+[01:15:20] [Server thread/INFO]: <ProvidedSolid> YAAAAA
+[01:15:24] [Server thread/INFO]: <memohcepgi> la luna
+[01:16:25] [Server thread/INFO]: Incorrect argument for command
+[01:16:25] [Server thread/INFO]: teleport memohcepgiteleport ProvidedSolid lunarTroop<--[HERE]
+[01:16:35] [Server thread/INFO]: <memohcepgi> que haces amigo
+[01:16:50] [Server thread/INFO]: Incorrect argument for command
+[01:16:50] [Server thread/INFO]: ...vteleport ProvidedSolid lunarTroop<--[HERE]
+[01:17:06] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
+[01:17:06] [Server thread/WARN]: ProvidedSolid moved too quickly! 119.86149637727348,46.0,-88.12860368275182
+[01:17:06] [Server thread/WARN]: ProvidedSolid moved too quickly! 119.86149637727348,46.0,-88.12860368275182
+[01:17:17] [Server thread/INFO]: <ProvidedSolid> voy de nuevo al nether xd
+[01:17:33] [Server thread/INFO]: <memohcepgi> amos
+[01:21:18] [Server thread/INFO]: memohcepgi was slain by Enderman
+[01:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[01:28:34] [Server thread/INFO]: memohcepgi has made the advancement [Hidden in the Depths]
+[01:34:35] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-108, y=11, z=177} fu{x=-107, y=11, z=177}
+[01:34:35] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-108, y=11, z=177} fu{x=-107, y=11, z=177}
+[01:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-219, y=15, z=177} fu{x=-220, y=14, z=177}
+[01:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-219, y=15, z=177} fu{x=-220, y=14, z=177}
+[01:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-223, y=16, z=177} fu{x=-222, y=15, z=177}
+[01:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-223, y=16, z=177} fu{x=-223, y=15, z=177}
+[01:47:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-223, y=16, z=177} fu{x=-223, y=15, z=177}
+[01:47:43] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-223, y=16, z=177} fu{x=-223, y=15, z=177}
+[01:51:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-258, y=10, z=177}
+[01:51:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-258, y=10, z=177}
+[01:51:51] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-258, y=10, z=177}
+[01:51:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-260, y=10, z=177}
+[01:51:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-260, y=10, z=177}
+[01:51:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-260, y=10, z=177}
+[01:51:54] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-256, y=7, z=177} fu{x=-260, y=10, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[01:59:39] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-340, y=12, z=177} fu{x=-340, y=11, z=177}
+[02:02:12] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-361, y=11, z=178} fu{x=-360, y=10, z=178}
+[02:03:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-380, y=10, z=177} fu{x=-384, y=15, z=178}
+[02:03:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-380, y=10, z=177} fu{x=-384, y=15, z=178}
+[02:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-455, y=17, z=176} fu{x=-460, y=17, z=177}
+[02:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-455, y=17, z=176} fu{x=-460, y=17, z=177}
+[02:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-455, y=17, z=176} fu{x=-460, y=17, z=177}
+[02:12:58] [Server thread/INFO]: Incorrect argument for command
+[02:12:58] [Server thread/INFO]: ...idedSolid /spawn<--[HERE]
+[02:13:14] [Server thread/INFO]: No entity was found
+[02:16:16] [Server thread/INFO]: Incorrect argument for command
+[02:16:16] [Server thread/INFO]: ...idedSolid -169, 70, 200<--[HERE]
+[02:16:35] [Server thread/INFO]: Teleported ProvidedSolid to -168.5, 70.0, 200.5
+[02:20:03] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[02:20:03] [Server thread/INFO]: ProvidedSolid left the game
+[02:20:11] [User Authenticator #7/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[02:20:11] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:43598] logged in with entity id 40366 at (-272.69999998807907, 23.0, 300.6999999880791)
+[02:20:11] [Server thread/INFO]: ProvidedSolid joined the game
+[02:21:46] [Server thread/INFO]: Teleported ProvidedSolid to memohcepgi
+[02:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-45, y=13, z=205} fu{x=-46, y=16, z=209}
+[02:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-45, y=13, z=205} fu{x=-46, y=16, z=209}
+[02:27:01] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-45, y=13, z=205} fu{x=-46, y=16, z=209}
+[02:29:03] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=221} fu{x=-46, y=17, z=229}
+[02:29:03] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=221} fu{x=-46, y=17, z=229}
+[02:29:03] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=221} fu{x=-46, y=17, z=229}
+[02:30:23] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-45, y=10, z=264} fu{x=-46, y=16, z=272}
+[02:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=271} fu{x=-46, y=17, z=272}
+[02:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=271} fu{x=-46, y=17, z=272}
+[02:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=271} fu{x=-46, y=17, z=272}
+[02:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-46, y=17, z=271} fu{x=-46, y=17, z=272}
+[02:30:32] [Server thread/INFO]: lunarTroop has made the advancement [Hidden in the Depths]
+[02:32:18] [Server thread/INFO]: Teleported memohcepgi to ProvidedSolid
+[02:32:44] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-42, y=23, z=278} fu{x=-42, y=22, z=279}
+[02:32:44] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-42, y=23, z=278} fu{x=-42, y=22, z=279}
+[02:42:06] [Server thread/INFO]: memohcepgi was killed by [Intentional Game Design]
+[02:44:58] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-58, y=14, z=350} fu{x=-58, y=14, z=359}
+[02:44:58] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-58, y=14, z=350} fu{x=-58, y=14, z=359}
+[02:44:59] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-58, y=14, z=361} fu{x=-58, y=14, z=360}
+[02:44:59] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-58, y=14, z=361} fu{x=-58, y=14, z=360}
+[02:47:21] [Server thread/INFO]: Teleported memohcepgi to -168.5, 80.0, 215.5
+[02:52:10] [Server thread/INFO]: memohcepgi fell from a high place
+[02:53:04] [Server thread/INFO]: Teleported memohcepgi to -168.5, 75.0, 220.5
+[02:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-53, y=11, z=453} fu{x=-53, y=10, z=453}
+[02:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-53, y=11, z=453} fu{x=-53, y=10, z=453}
+[03:03:35] [Server thread/INFO]: lunarTroop has made the advancement [Not Quite "Nine" Lives]
+[03:08:16] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=124, y=16, z=459} fu{x=125, y=16, z=459}
+[03:08:26] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=136, y=14, z=459} fu{x=134, y=15, z=459}
+[03:08:26] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=136, y=14, z=459} fu{x=134, y=15, z=459}
+[03:08:35] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=152, y=14, z=459} fu{x=157, y=14, z=459}
+[03:08:35] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=152, y=14, z=459} fu{x=157, y=14, z=459}
+[03:08:36] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=157, y=15, z=459} fu{x=158, y=14, z=459}
+[03:08:37] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=157, y=15, z=459} fu{x=158, y=15, z=459}
+[03:08:37] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=157, y=15, z=459} fu{x=160, y=14, z=459}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=194, y=15, z=461} fu{x=194, y=14, z=461}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=194, y=15, z=461} fu{x=194, y=14, z=461}
+[03:12:20] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=194, y=15, z=461} fu{x=194, y=14, z=461}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=216, y=11, z=454} fu{x=218, y=12, z=458}
+[03:15:21] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=221, y=14, z=458} fu{x=222, y=14, z=458}
+[03:15:21] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=221, y=14, z=458} fu{x=222, y=14, z=458}
+[03:15:22] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=221, y=14, z=458} fu{x=222, y=14, z=458}
+[03:15:22] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=221, y=14, z=458} fu{x=222, y=14, z=458}
+[03:16:54] [Server thread/INFO]: lunarTroop has completed the challenge [Serious Dedication]
+[03:19:14] [Server thread/INFO]: Teleported ProvidedSolid to lunarTroop
+[03:37:54] [Server thread/INFO]: lunarTroop has made the advancement [Ol' Betsy]
+[03:51:28] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[03:51:28] [Server thread/INFO]: ProvidedSolid left the game
+[03:53:25] [Server thread/INFO]: memohcepgi has made the advancement [Cover Me With Diamonds]
+[03:54:31] [User Authenticator #8/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[03:54:31] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:44224] logged in with entity id 65667 at (-272.5267946762986, 23.0, 300.69999998807907)
+[03:54:31] [Server thread/INFO]: ProvidedSolid joined the game
+[03:54:51] [Server thread/INFO]: memohcepgi has completed the challenge [Cover Me in Debris]
+[03:55:10] [Server thread/INFO]: Teleported ProvidedSolid to memohcepgi
+[03:55:10] [Server thread/WARN]: ProvidedSolid moved too quickly! 105.75235472813014,48.0,-85.49565841293489
+[04:00:41] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[04:00:41] [Server thread/INFO]: ProvidedSolid left the game
+[04:01:49] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[04:01:49] [Server thread/INFO]: memohcepgi left the game
+[04:02:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@72627917[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11065) lost connection: Disconnected
+[04:02:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@b94ede7[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11076) lost connection: Disconnected
+[04:02:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@839acc7[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11089) lost connection: Disconnected
+[04:03:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@13897a85[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11091) lost connection: Disconnected
+[04:03:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@32843a97[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11093) lost connection: Disconnected
+[04:04:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@7e6b5897[id=<null>,name=memohcepgi,properties={},legacy=false] (/25.3.27.60:11137) lost connection: Disconnected
+[04:04:46] [User Authenticator #9/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[04:04:46] [Server thread/INFO]: ProvidedSolid[/25.109.8.8:44622] logged in with entity id 66957 at (-272.69999998807907, 23.0, 300.69999998807907)
+[04:04:46] [Server thread/INFO]: ProvidedSolid joined the game
+[04:05:40] [User Authenticator #10/INFO]: UUID of player memohcepgi is fe79753c-4c08-4fee-9f4c-1f73cae5ed21
+[04:05:40] [Server thread/INFO]: memohcepgi[/25.3.27.60:11192] logged in with entity id 67113 at (-160.08968373452757, 69.0, 198.99519811323276)
+[04:05:40] [Server thread/INFO]: memohcepgi joined the game
+[04:05:56] [Server thread/INFO]: Teleported ProvidedSolid to memohcepgi
+[04:05:56] [Server thread/WARN]: ProvidedSolid moved too quickly! 111.78318536317283,52.5625,-91.10663825313264
+[04:11:01] [Server thread/INFO]: Teleported ProvidedSolid to memohcepgi
+[04:15:46] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[04:15:46] [Server thread/INFO]: lunarTroop left the game
+[04:15:49] [Server thread/INFO]: memohcepgi lost connection: Disconnected
+[04:15:49] [Server thread/INFO]: memohcepgi left the game
+[04:20:23] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[04:20:23] [Server thread/INFO]: ProvidedSolid left the game
+[04:20:26] [Server thread/INFO]: Stopping server
