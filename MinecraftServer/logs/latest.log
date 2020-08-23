@@ -1,1 +1,59 @@
-[21:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind
+[01:30:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:30:06] [main/INFO]: Reloading ResourceManager: Default
+[01:30:07] [Worker-Main-13/INFO]: Loaded 7 recipes
+[01:30:07] [Worker-Main-13/INFO]: Loaded 927 advancements
+[01:30:08] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[01:30:08] [Server thread/INFO]: Loading properties
+[01:30:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:30:08] [Server thread/INFO]: Generating keypair
+[01:30:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:30:09] [Server thread/INFO]: Using default channel type
+[01:30:10] [Server thread/INFO]: Preparing level "Kovidland"
+[01:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:30:13] [Server thread/INFO]: Preparing spawn area: 25%
+[01:30:15] [Server thread/INFO]: Time elapsed: 4323 ms
+[01:30:15] [Server thread/INFO]: Done (4.530s)! For help, type "help"
+[01:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
+[01:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[01:35:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@24f4411[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:49382): Took too long to log in
+[01:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11723ms or 234 ticks behind
+[01:35:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@24f4411[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:49382) lost connection: Took too long to log in
+[01:35:57] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:35:58] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:36:00] [Server thread/INFO]: lunarTroop[/192.168.1.79:49405] logged in with entity id 189 at (-160.5, 69.0000002, 198.5)
+[01:36:01] [Server thread/INFO]: lunarTroop joined the game
+[01:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8405ms or 168 ticks behind
+[01:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[01:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
+[02:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[02:00:14] [Server thread/INFO]: lunarTroop was blown up by Creeper
+[02:00:56] [Server thread/INFO]: lunarTroop was slain by Skeleton
+[02:01:37] [Server thread/INFO]: lunarTroop was slain by Skeleton
+[02:37:08] [Server thread/INFO]: Gave 1 [Bow] to lunarTroop
+[02:37:21] [Server thread/INFO]: Gave 1 [Creeper Head] to lunarTroop
+[02:37:36] [Server thread/INFO]: Unknown item 'minecraft:wither_skull'
+[02:37:36] [Server thread/INFO]: ...unartroop wither_skull<--[HERE]
+[02:38:29] [Server thread/INFO]: Gave 1 [Wither Skeleton Skull] to lunarTroop
+[02:38:46] [Server thread/INFO]: lunarTroop has made the advancement [Spooky Scary Skeleton]
+[03:06:13] [Server thread/INFO]: Gave 1 [Black Banner] to lunarTroop
+[03:09:27] [Server thread/INFO]: <lunarTroop> enchant mending
+[03:10:08] [Server thread/INFO]: Applied enchantment Mending to lunarTroop's item
+[03:16:44] [Server thread/INFO]: Gave 1 [White Banner] to lunarTroop
+[03:17:44] [Server thread/INFO]: Gave 1 [White Banner] to lunarTroop
+[03:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8024ms or 160 ticks behind
+[03:23:13] [Server thread/INFO]: Gave 1 [Red Banner] to lunarTroop
+[03:30:07] [Server thread/INFO]: lunarTroop was slain by Zombie
+[03:42:40] [Server thread/INFO]: Gave 1 [Brown Banner] to lunarTroop
+[03:52:52] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[03:52:52] [Server thread/INFO]: lunarTroop left the game
