@@ -1,59 +1,40 @@
-[01:30:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:30:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:30:06] [main/INFO]: Reloading ResourceManager: Default
-[01:30:07] [Worker-Main-13/INFO]: Loaded 7 recipes
-[01:30:07] [Worker-Main-13/INFO]: Loaded 927 advancements
-[01:30:08] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[01:30:08] [Server thread/INFO]: Loading properties
-[01:30:08] [Server thread/INFO]: Default game type: SURVIVAL
-[01:30:08] [Server thread/INFO]: Generating keypair
-[01:30:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:30:09] [Server thread/INFO]: Using default channel type
-[01:30:10] [Server thread/INFO]: Preparing level "Kovidland"
-[01:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:30:13] [Server thread/INFO]: Preparing spawn area: 25%
-[01:30:15] [Server thread/INFO]: Time elapsed: 4323 ms
-[01:30:15] [Server thread/INFO]: Done (4.530s)! For help, type "help"
-[01:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
-[01:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[01:35:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@24f4411[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:49382): Took too long to log in
-[01:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11723ms or 234 ticks behind
-[01:35:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@24f4411[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:49382) lost connection: Took too long to log in
-[01:35:57] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:35:58] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:36:00] [Server thread/INFO]: lunarTroop[/192.168.1.79:49405] logged in with entity id 189 at (-160.5, 69.0000002, 198.5)
-[01:36:01] [Server thread/INFO]: lunarTroop joined the game
-[01:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8405ms or 168 ticks behind
-[01:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
-[01:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
-[02:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[02:00:14] [Server thread/INFO]: lunarTroop was blown up by Creeper
-[02:00:56] [Server thread/INFO]: lunarTroop was slain by Skeleton
-[02:01:37] [Server thread/INFO]: lunarTroop was slain by Skeleton
-[02:37:08] [Server thread/INFO]: Gave 1 [Bow] to lunarTroop
-[02:37:21] [Server thread/INFO]: Gave 1 [Creeper Head] to lunarTroop
-[02:37:36] [Server thread/INFO]: Unknown item 'minecraft:wither_skull'
-[02:37:36] [Server thread/INFO]: ...unartroop wither_skull<--[HERE]
-[02:38:29] [Server thread/INFO]: Gave 1 [Wither Skeleton Skull] to lunarTroop
-[02:38:46] [Server thread/INFO]: lunarTroop has made the advancement [Spooky Scary Skeleton]
-[03:06:13] [Server thread/INFO]: Gave 1 [Black Banner] to lunarTroop
-[03:09:27] [Server thread/INFO]: <lunarTroop> enchant mending
-[03:10:08] [Server thread/INFO]: Applied enchantment Mending to lunarTroop's item
-[03:16:44] [Server thread/INFO]: Gave 1 [White Banner] to lunarTroop
-[03:17:44] [Server thread/INFO]: Gave 1 [White Banner] to lunarTroop
-[03:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8024ms or 160 ticks behind
-[03:23:13] [Server thread/INFO]: Gave 1 [Red Banner] to lunarTroop
-[03:30:07] [Server thread/INFO]: lunarTroop was slain by Zombie
-[03:42:40] [Server thread/INFO]: Gave 1 [Brown Banner] to lunarTroop
-[03:52:52] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[03:52:52] [Server thread/INFO]: lunarTroop left the game
+[00:02:41] [User Authenticator #6/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[00:02:55] [Server thread/INFO]: lunarTroop[/192.168.1.79:51474] logged in with entity id 30391 at (-492.841209964026, 64.0, 591.3292337718826)
+[00:02:58] [Server thread/INFO]: lunarTroop joined the game
+[00:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26251ms or 525 ticks behind
+[00:03:17] [User Authenticator #7/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[00:03:20] [Server thread/INFO]: lunarTroop lost connection: Timed out
+[00:03:20] [Server thread/INFO]: lunarTroop left the game
+[00:03:22] [Server thread/INFO]: lunarTroop[/192.168.1.79:51495] logged in with entity id 30393 at (-492.841209964026, 64.0, 591.3292337718826)
+[00:03:22] [Server thread/INFO]: lunarTroop joined the game
+[00:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27954ms or 559 ticks behind
+[00:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[00:04:23] [Server thread/INFO]: Gave 1 [Moon Banner] to lunarTroop
+[00:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
+[00:04:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:04:50] [Server thread/INFO]: <--[HERE]
+[00:04:55] [Server thread/INFO]: Gave 1 [Si(l)ck Pick] to lunarTroop
+[00:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[00:05:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:05:04] [Server thread/INFO]: <--[HERE]
+[00:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[00:09:08] [Server thread/INFO]: Teleported lunarTroop to -159.5, 69.0, 200.5
+[00:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8770ms or 175 ticks behind
+[00:15:56] [Server thread/INFO]: Gave 1 [White Banner] to lunarTroop
+[00:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[00:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[00:46:15] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[00:46:15] [Server thread/INFO]: lunarTroop left the game
+[00:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[00:53:52] [Server thread/INFO]: Stopping server
+[00:53:52] [Server thread/INFO]: Saving players
+[00:53:52] [Server thread/INFO]: Saving worlds
+[00:53:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
+[00:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[00:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
+[00:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
+[00:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
