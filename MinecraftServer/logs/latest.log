@@ -1,34 +1,53 @@
-[21:39:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[21:39:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:39:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:39:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:39:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:39:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:39:41] [main/INFO]: Reloading ResourceManager: Default
-[21:39:42] [Worker-Main-5/INFO]: Loaded 7 recipes
-[21:39:43] [Worker-Main-5/INFO]: Loaded 927 advancements
-[21:39:44] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[21:39:44] [Server thread/INFO]: Loading properties
-[21:39:44] [Server thread/INFO]: Default game type: SURVIVAL
-[21:39:44] [Server thread/INFO]: Generating keypair
-[21:39:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:39:44] [Server thread/INFO]: Using default channel type
-[21:39:46] [Server thread/INFO]: Preparing level "Kovidland"
-[21:39:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:39:48] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:48] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:48] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:48] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:48] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:49] [Server thread/INFO]: Time elapsed: 2621 ms
-[21:39:49] [Server thread/INFO]: Done (2.726s)! For help, type "help"
-[21:40:05] [User Authenticator #1/INFO]: UUID of player EvilliveFuad is a1751479-d6b2-49be-a206-c77f4f461a85
-[21:40:05] [Server thread/INFO]: EvilliveFuad[/25.1.224.85:49671] logged in with entity id 99 at (-934.1346084690332, 23.0, 1224.8211847287016)
-[21:40:05] [Server thread/INFO]: EvilliveFuad joined the game
-[21:40:07] [User Authenticator #2/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[21:40:07] [Server thread/INFO]: ProvidedSolid[/25.108.151.94:58461] logged in with entity id 180 at (-935.6313444572784, 23.0, 1225.7293222001667)
-[21:40:07] [Server thread/INFO]: ProvidedSolid joined the game
-[21:40:28] [Server thread/INFO]: EvilliveFuad lost connection: Disconnected
-[21:40:28] [Server thread/INFO]: EvilliveFuad left the game
-[21:40:35] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[21:40:35] [Server thread/INFO]: ProvidedSolid left the game
+[15:22:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:22:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:22:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:06] [main/INFO]: Reloading ResourceManager: Default
+[15:22:06] [Worker-Main-12/INFO]: Loaded 7 recipes
+[15:22:07] [Worker-Main-12/INFO]: Loaded 927 advancements
+[15:22:07] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[15:22:07] [Server thread/INFO]: Loading properties
+[15:22:07] [Server thread/INFO]: Default game type: SURVIVAL
+[15:22:07] [Server thread/INFO]: Generating keypair
+[15:22:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:22:08] [Server thread/INFO]: Using default channel type
+[15:22:09] [Server thread/INFO]: Preparing level "Kovidland"
+[15:22:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:22:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:11] [Server thread/INFO]: Preparing spawn area: 0%
+[15:22:11] [Server thread/INFO]: Time elapsed: 2447 ms
+[15:22:11] [Server thread/INFO]: Done (2.624s)! For help, type "help"
+[15:27:49] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[15:27:50] [Server thread/INFO]: ProvidedSolid[/192.168.8.2:52905] logged in with entity id 79 at (-1487.3707145160522, 58.0, 860.9380182452796)
+[15:27:50] [Server thread/INFO]: ProvidedSolid joined the game
+[15:34:26] [Server thread/INFO]: Gave 128 [Torch] to ProvidedSolid
+[15:43:48] [Server thread/INFO]: ProvidedSolid has made the advancement [The City at the End of the Game]
+[16:02:33] [Server thread/INFO]: Gave 512 [End Stone] to ProvidedSolid
+[18:18:46] [Server thread/INFO]: ProvidedSolid has reached the goal [Sky's the Limit]
+[18:51:31] [Server thread/INFO]: Gave 128 [End Stone] to ProvidedSolid
+[19:01:57] [Server thread/INFO]: Gave 30 [Ender Pearl] to ProvidedSolid
+[19:13:56] [Server thread/INFO]: Teleported ProvidedSolid to -168.5, 75.0, 200.5
+[19:18:00] [Server thread/INFO]: Gave 30 [Book] to ProvidedSolid
+[19:23:56] [Server thread/INFO]: Unknown item 'minecraft:spruce_plank'
+[19:23:56] [Server thread/INFO]: ...idedsolid spruce_plank 30<--[HERE]
+[19:24:02] [Server thread/INFO]: Unknown item 'minecraft:spruce_plank'
+[19:24:02] [Server thread/INFO]: ...idedsolid spruce_plank 30<--[HERE]
+[19:24:09] [Server thread/INFO]: Gave 30 [Spruce Planks] to ProvidedSolid
+[19:26:06] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[19:26:06] [Server thread/INFO]: ProvidedSolid left the game
+[19:26:16] [Server thread/INFO]: Stopping server
+[19:26:16] [Server thread/INFO]: Saving players
+[19:26:16] [Server thread/INFO]: Saving worlds
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
+[19:26:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[19:30:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
+[19:31:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
+[19:31:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:31:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[19:31:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:31:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
