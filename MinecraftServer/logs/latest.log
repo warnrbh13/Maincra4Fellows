@@ -1,60 +1,29 @@
-[00:08:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:09:11] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:09:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:09:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:09:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:09:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:09:11] [main/INFO]: Reloading ResourceManager: Default
-[00:09:11] [Worker-Main-12/INFO]: Loaded 7 recipes
-[00:09:11] [Worker-Main-12/INFO]: Loaded 927 advancements
-[00:09:11] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[00:09:11] [Server thread/INFO]: Loading properties
-[00:09:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:09:11] [Server thread/INFO]: Generating keypair
-[00:09:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:09:11] [Server thread/INFO]: Using default channel type
-[00:09:12] [Server thread/INFO]: Preparing level "Kovidland"
-[00:09:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:09:13] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:13] [Server thread/INFO]: Preparing spawn area: 0%
-[00:09:13] [Server thread/INFO]: Preparing spawn area: 53%
-[00:09:13] [Server thread/INFO]: Time elapsed: 1099 ms
-[00:09:13] [Server thread/INFO]: Done (1.150s)! For help, type "help"
-[00:09:24] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:09:24] [User Authenticator #2/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[00:09:24] [Server thread/INFO]: lunarTroop[/25.3.255.127:58903] logged in with entity id 99 at (9.18937314094777, 69.0, 210.55584403621455)
-[00:09:24] [Server thread/INFO]: lunarTroop joined the game
-[00:09:24] [Server thread/INFO]: ProvidedSolid[/25.6.122.119:60884] logged in with entity id 104 at (356.0049206302948, 113.0, 1978.295935837945)
-[00:09:24] [Server thread/INFO]: ProvidedSolid joined the game
-[00:10:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:10:14] [Server thread/INFO]: dsadafill 356 113 1978 385 114 2007 polished_blackstone<--[HERE]
-[00:10:22] [Server thread/INFO]: Successfully filled 1800 blocks
-[00:11:38] [Server thread/INFO]: Unknown block type 'minecraft:sir'
-[00:11:38] [Server thread/INFO]: ... 114 2007 sir<--[HERE]
-[00:11:41] [Server thread/INFO]: Successfully filled 1800 blocks
-[00:14:15] [Server thread/WARN]: ProvidedSolid moved too quickly! -6.754278528388852,-3.1203082558563153,-16.181649988302524
-[00:14:47] [Server thread/INFO]: lunarTroop fell from a high place
-[00:20:53] [Server thread/INFO]: Successfully filled 1800 blocks
-[00:45:47] [Server thread/INFO]: Gave 1 [Lava Bucket] to ProvidedSolid
-[00:49:10] [Server thread/INFO]: Gave 512 [Polished Blackstone] to ProvidedSolid
-[00:54:15] [Server thread/WARN]: ProvidedSolid moved too quickly! 12.207144214008878,-6.300383173945178,-11.530453927853387
-[00:55:07] [Server thread/INFO]: Gave 20 [Obsidian] to ProvidedSolid
-[00:59:24] [Server thread/INFO]: Gave 1 [Magenta Bed] to ProvidedSolid
-[00:59:33] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=350, y=115, z=2000} fu{x=248, y=70, z=1761}
-[01:07:30] [Server thread/INFO]: Gave 512 [Polished Blackstone] to ProvidedSolid
-[01:09:50] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[01:09:50] [Server thread/INFO]: ProvidedSolid left the game
-[01:20:18] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[01:20:18] [Server thread/INFO]: lunarTroop left the game
-[01:20:33] [Server thread/INFO]: Stopping server
-[01:20:33] [Server thread/INFO]: Saving players
-[01:20:33] [Server thread/INFO]: Saving worlds
-[01:20:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[01:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:20:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:47:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:47:04] [main/INFO]: Reloading ResourceManager: Default
+[16:47:05] [Worker-Main-12/INFO]: Loaded 7 recipes
+[16:47:05] [Worker-Main-12/INFO]: Loaded 927 advancements
+[16:47:05] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[16:47:05] [Server thread/INFO]: Loading properties
+[16:47:05] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:05] [Server thread/INFO]: Generating keypair
+[16:47:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:06] [Server thread/INFO]: Using default channel type
+[16:47:06] [Server thread/INFO]: Preparing level "Kovidland"
+[16:47:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:08] [Server thread/INFO]: Time elapsed: 1558 ms
+[16:47:08] [Server thread/INFO]: Done (1.628s)! For help, type "help"
+[16:50:45] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
+[16:50:46] [Server thread/INFO]: ProvidedSolid[/192.168.1.88:61487] logged in with entity id 98 at (322.54478843564266, 113.0, 1971.34961220156)
+[16:50:46] [Server thread/INFO]: ProvidedSolid joined the game
+[16:50:59] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[16:50:59] [Server thread/INFO]: ProvidedSolid left the game
+[16:51:22] [Server thread/INFO]: Stopping server
+[16:51:22] [Server thread/INFO]: Saving players
