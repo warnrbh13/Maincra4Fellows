@@ -1,29 +1,14 @@
-[16:47:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:47:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:47:04] [main/INFO]: Reloading ResourceManager: Default
-[16:47:05] [Worker-Main-12/INFO]: Loaded 7 recipes
-[16:47:05] [Worker-Main-12/INFO]: Loaded 927 advancements
-[16:47:05] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[16:47:05] [Server thread/INFO]: Loading properties
-[16:47:05] [Server thread/INFO]: Default game type: SURVIVAL
-[16:47:05] [Server thread/INFO]: Generating keypair
-[16:47:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:47:06] [Server thread/INFO]: Using default channel type
-[16:47:06] [Server thread/INFO]: Preparing level "Kovidland"
-[16:47:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:08] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:08] [Server thread/INFO]: Time elapsed: 1558 ms
-[16:47:08] [Server thread/INFO]: Done (1.628s)! For help, type "help"
-[16:50:45] [User Authenticator #1/INFO]: UUID of player ProvidedSolid is 736b1c60-794d-4de3-8d69-0c0d3580116a
-[16:50:46] [Server thread/INFO]: ProvidedSolid[/192.168.1.88:61487] logged in with entity id 98 at (322.54478843564266, 113.0, 1971.34961220156)
-[16:50:46] [Server thread/INFO]: ProvidedSolid joined the game
-[16:50:59] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
-[16:50:59] [Server thread/INFO]: ProvidedSolid left the game
-[16:51:22] [Server thread/INFO]: Stopping server
-[16:51:22] [Server thread/INFO]: Saving players
+[00:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[00:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[02:08:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=280, y=66, z=1744} fu{x=279, y=65, z=1744}
+[02:32:09] [Server thread/INFO]: lunarTroop was slain by Enderman
+[02:48:10] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[02:48:10] [Server thread/INFO]: lunarTroop left the game
+[03:11:56] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[03:11:57] [Server thread/INFO]: lunarTroop[/192.168.1.79:56818] logged in with entity id 42442 at (248.52131819119532, 68.0, 1749.9357402382914)
+[03:11:57] [Server thread/INFO]: lunarTroop joined the game
+[04:56:23] [Server thread/INFO]: lunarTroop was blown up by Creeper
+[04:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[05:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[05:53:58] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[05:53:58] [Server thread/INFO]: lunarTroop left the game
