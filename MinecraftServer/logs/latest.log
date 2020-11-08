@@ -1,14 +1,26 @@
-[00:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
-[00:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
-[02:08:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=280, y=66, z=1744} fu{x=279, y=65, z=1744}
-[02:32:09] [Server thread/INFO]: lunarTroop was slain by Enderman
-[02:48:10] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[02:48:10] [Server thread/INFO]: lunarTroop left the game
-[03:11:56] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[03:11:57] [Server thread/INFO]: lunarTroop[/192.168.1.79:56818] logged in with entity id 42442 at (248.52131819119532, 68.0, 1749.9357402382914)
-[03:11:57] [Server thread/INFO]: lunarTroop joined the game
-[04:56:23] [Server thread/INFO]: lunarTroop was blown up by Creeper
-[04:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
-[05:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
-[05:53:58] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[05:53:58] [Server thread/INFO]: lunarTroop left the game
+[00:00:39] [Server thread/WARN]: ProvidedSolid moved too quickly! -8.454678225558382,-9.278047708969552,11.989095574874455
+[00:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3824ms or 76 ticks behind
+[00:05:43] [Server thread/WARN]: ProvidedSolid moved too quickly! 4.0187570128182415,0.22860926093821377,-9.239389479636884
+[00:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
+[00:07:52] [Server thread/WARN]: ProvidedSolid moved too quickly! -14.68280563391454,6.584944859964793,-7.36445461946505
+[00:08:26] [Server thread/WARN]: ProvidedSolid moved too quickly! 15.552945676394302,-3.9294924616959435,-8.025268820786891
+[00:08:26] [Server thread/WARN]: ProvidedSolid moved too quickly! 15.902211325599637,-3.8576340912590013,-8.381862748397111
+[00:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20238ms or 404 ticks behind
+[00:08:53] [Server thread/INFO]: Teleported lunarTroop to ProvidedSolid
+[00:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[00:11:06] [Server thread/INFO]: ProvidedSolid lost connection: Disconnected
+[00:11:06] [Server thread/INFO]: ProvidedSolid left the game
+[00:11:10] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[00:11:10] [Server thread/INFO]: lunarTroop left the game
+[00:11:16] [Server thread/INFO]: Stopping server
+[00:11:16] [Server thread/INFO]: Saving players
+[00:11:16] [Server thread/INFO]: Saving worlds
+[00:11:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:overworld
+[00:11:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[00:11:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_nether
+[00:11:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:11:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Kovidland]'/minecraft:the_end
+[00:11:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:11:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (Kovidland): All chunks are saved
+[00:11:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:11:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
