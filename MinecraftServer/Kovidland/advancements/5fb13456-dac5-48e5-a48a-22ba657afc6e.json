@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2020-12-26 20:42:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2020-09-06 00:29:55 -0500"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-07-17 23:11:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
     },
     "done": true
   },
@@ -452,6 +464,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-07-17 23:04:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
     },
     "done": true
   },
@@ -804,10 +822,12 @@
       "minecraft:phantom": "2020-07-18 03:40:24 -0500",
       "minecraft:zombified_piglin": "2020-07-21 20:23:28 -0500",
       "minecraft:witch": "2020-09-07 00:32:02 -0500",
+      "minecraft:wither_skeleton": "2020-12-26 19:21:19 -0600",
       "minecraft:ender_dragon": "2020-09-04 19:21:04 -0500",
       "minecraft:cave_spider": "2020-07-25 20:02:01 -0500",
       "minecraft:enderman": "2020-07-21 20:23:22 -0500",
       "minecraft:zombie": "2020-07-17 22:34:48 -0500",
+      "minecraft:drowned": "2020-12-26 17:29:06 -0600",
       "minecraft:zombie_villager": "2020-07-23 01:07:07 -0500"
     },
     "done": false
@@ -1628,6 +1648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-12-26 20:42:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-07-17 21:28:35 -0500"
@@ -1862,6 +1888,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2020-09-07 03:17:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-12-26 20:07:43 -0600"
     },
     "done": true
   },
@@ -2424,6 +2456,7 @@
       "rotten_flesh": "2020-08-24 21:11:53 -0500",
       "golden_carrot": "2020-09-04 18:55:43 -0500",
       "cooked_chicken": "2020-07-18 02:26:57 -0500",
+      "mushroom_stew": "2020-12-26 19:12:57 -0600",
       "carrot": "2020-07-19 00:01:44 -0500"
     },
     "done": false
@@ -2578,6 +2611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-07-18 01:08:06 -0500"
@@ -2623,6 +2662,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-07-18 00:02:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
     },
     "done": true
   },
@@ -2955,6 +3000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2020-12-26 20:42:32 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2020-07-21 20:18:50 -0500"
@@ -3189,6 +3240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-07-18 23:34:23 -0500"
@@ -3384,6 +3441,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-07-17 23:04:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
     },
     "done": true
   },
@@ -3600,6 +3663,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-07-18 01:08:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2020-12-26 20:42:32 -0600"
     },
     "done": true
   },
@@ -4023,6 +4092,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-09-06 00:29:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-12-26 20:42:36 -0600"
     },
     "done": true
   },
