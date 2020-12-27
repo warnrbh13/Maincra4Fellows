@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-12-26 23:20:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2020-09-04 19:18:08 -0500"
@@ -634,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-12-26 23:20:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-07-17 23:11:01 -0500"
@@ -700,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-12-27 01:42:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-07-17 22:55:49 -0500"
@@ -745,6 +763,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-18 02:34:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-12-27 00:06:06 -0600"
     },
     "done": true
   },
@@ -862,9 +886,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-18 02:34:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-12-26 23:25:22 -0600"
     },
     "done": true
   },
@@ -922,6 +958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-12-27 00:49:50 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-07-17 23:07:49 -0500"
@@ -976,6 +1018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-12-26 23:20:35 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-07-17 23:07:49 -0500"
@@ -1003,6 +1051,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-18 02:34:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
     },
     "done": true
   },
@@ -1169,16 +1223,25 @@
       "minecraft:mountains": "2020-08-01 18:53:08 -0500",
       "minecraft:mushroom_fields": "2020-12-26 19:08:18 -0600",
       "minecraft:taiga": "2020-07-17 21:23:33 -0500",
+      "minecraft:desert_hills": "2020-12-27 01:18:53 -0600",
+      "minecraft:giant_tree_taiga": "2020-12-26 22:09:58 -0600",
       "minecraft:deep_cold_ocean": "2020-12-26 20:13:30 -0600",
+      "minecraft:snowy_tundra": "2020-12-27 00:02:27 -0600",
       "minecraft:taiga_hills": "2020-07-17 21:23:43 -0500",
+      "minecraft:desert": "2020-12-27 01:17:39 -0600",
+      "minecraft:frozen_river": "2020-12-27 00:02:50 -0600",
+      "minecraft:deep_frozen_ocean": "2020-12-26 23:48:58 -0600",
       "minecraft:birch_forest": "2020-07-18 01:01:02 -0500",
+      "minecraft:snowy_beach": "2020-12-27 00:02:20 -0600",
       "minecraft:beach": "2020-07-21 22:48:37 -0500",
       "minecraft:dark_forest": "2020-07-18 01:01:42 -0500",
       "minecraft:river": "2020-07-17 23:18:58 -0500",
       "minecraft:birch_forest_hills": "2020-07-18 01:10:50 -0500",
       "minecraft:wooded_hills": "2020-07-18 01:11:34 -0500",
+      "minecraft:stone_shore": "2020-12-26 23:13:51 -0600",
       "minecraft:mushroom_field_shore": "2020-12-26 19:09:16 -0600",
       "minecraft:swamp": "2020-08-01 18:57:47 -0500",
+      "minecraft:savanna": "2020-12-27 01:02:00 -0600",
       "minecraft:plains": "2020-07-17 23:23:20 -0500"
     },
     "done": false
@@ -1279,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-12-27 01:01:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-07-21 18:52:43 -0500"
@@ -1303,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2020-12-27 00:05:33 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-12-26 20:18:03 -0600"
@@ -1318,6 +1393,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-07-31 22:32:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-12-27 00:06:06 -0600"
     },
     "done": true
   },
@@ -1469,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-07-17 21:26:52 -0500"
@@ -1571,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-12-27 00:46:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-07-17 23:07:21 -0500"
@@ -1670,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-12-27 00:06:06 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-07-17 23:00:04 -0500"
@@ -1697,6 +1796,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-07-21 23:16:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
     },
     "done": true
   },
@@ -1840,6 +1945,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2020-12-27 01:06:52 -0600",
       "minecraft:cow": "2020-07-21 19:13:54 -0500"
     },
     "done": false
@@ -2108,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-12-27 00:49:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-07-18 01:07:38 -0500"
@@ -2147,6 +2259,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-07-17 21:25:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
     },
     "done": true
   },
@@ -2225,6 +2343,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-07-21 22:58:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
     },
     "done": true
   },
@@ -2552,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-12-27 00:49:50 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-07-17 21:25:57 -0500"
@@ -2738,6 +2868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2020-09-04 18:45:03 -0500"
@@ -2771,6 +2907,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-07-18 02:37:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-12-26 23:42:08 -0600"
     },
     "done": true
   },
@@ -2837,6 +2979,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2020-07-24 01:03:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-12-26 23:20:37 -0600"
     },
     "done": true
   },
