@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "5fb13456-dac5-48e5-a48a-22ba657afc6e",
+    "name": "lunarTroop",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
