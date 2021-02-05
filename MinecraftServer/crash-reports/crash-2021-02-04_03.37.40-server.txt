@@ -1,0 +1,275 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 4/02/21 3:37
+Description: Watching Server
+
+java.lang.Error
+	at axn.b(SourceFile:35)
+	at apr.c(SourceFile:471)
+	at apr.a(SourceFile:464)
+	at bdp.N(SourceFile:274)
+	at aoz.dO(SourceFile:740)
+	at aoy.k(SourceFile:2505)
+	at aoz.k(SourceFile:538)
+	at aok.k(SourceFile:126)
+	at aoy.j(SourceFile:2251)
+	at aoz.j(SourceFile:338)
+	at bdp.j(SourceFile:315)
+	at zd.a(SourceFile:615)
+	at zd$$Lambda$3374/281638117.accept(Unknown Source)
+	at bqb.a(SourceFile:603)
+	at zd.a(SourceFile:405)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+	at net.minecraft.server.MinecraftServer$$Lambda$3061/1491156005.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at axn.b(SourceFile:35)
+	at apr.c(SourceFile:471)
+	at apr.a(SourceFile:464)
+	at bdp.N(SourceFile:274)
+	at aoz.dO(SourceFile:740)
+	at aoy.k(SourceFile:2505)
+	at aoz.k(SourceFile:538)
+	at aok.k(SourceFile:126)
+	at aoy.j(SourceFile:2251)
+	at aoz.j(SourceFile:338)
+	at bdp.j(SourceFile:315)
+	at zd.a(SourceFile:615)
+	at zd$$Lambda$3374/281638117.accept(Unknown Source)
+	at bqb.a(SourceFile:603)
+	at zd.a(SourceFile:405)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #4" Id=485 RUNNABLE
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1146)
+	-  locked io.netty.channel.DefaultChannelPipeline@4ddb077c
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:686)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:465)
+	...
+
+
+"Netty Server IO #3" Id=484 RUNNABLE
+	at io.netty.buffer.PoolThreadCache$SubPageMemoryRegionCache.<init>(PoolThreadCache.java:327)
+	at io.netty.buffer.PoolThreadCache.createSubPageCaches(PoolThreadCache.java:127)
+	at io.netty.buffer.PoolThreadCache.<init>(PoolThreadCache.java:74)
+	at io.netty.buffer.PooledByteBufAllocator$PoolThreadLocalCache.initialValue(PooledByteBufAllocator.java:442)
+	-  locked io.netty.buffer.PooledByteBufAllocator$PoolThreadLocalCache@1bce7139
+	at io.netty.buffer.PooledByteBufAllocator$PoolThreadLocalCache.initialValue(PooledByteBufAllocator.java:426)
+	at io.netty.util.concurrent.FastThreadLocal.initialize(FastThreadLocal.java:186)
+	at io.netty.util.concurrent.FastThreadLocal.get(FastThreadLocal.java:143)
+	at io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:319)
+	...
+
+
+"Worker-Main-453" Id=483 WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-452" Id=482 WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-450" Id=481 TIMED_WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-451" Id=480 WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-446" Id=476 WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-439" Id=469 WAITING on java.util.concurrent.ForkJoinPool@431cf0b7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@431cf0b7
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Netty Server IO #2" Id=220 RUNNABLE
+	at io.netty.util.concurrent.DefaultPromise.isSuccess(DefaultPromise.java:139)
+	at io.netty.channel.ChannelFutureListener$3.operationComplete(ChannelFutureListener.java:68)
+	at io.netty.channel.ChannelFutureListener$3.operationComplete(ChannelFutureListener.java:65)
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:511)
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:485)
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:424)
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:162)
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95)
+	...
+
+
+"Netty Server IO #1" Id=41 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@47236c0c
+	-  locked java.util.Collections$UnmodifiableSet@221fa8c
+	-  locked sun.nio.ch.WindowsSelectorImpl@1754ed53
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Server Watchdog" Id=40 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at yg.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=35 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@33e93e46
+	-  locked java.util.Collections$UnmodifiableSet@6f76773b
+	-  locked sun.nio.ch.WindowsSelectorImpl@620e05c3
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=34 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@528042a4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@528042a4
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=33 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@28e14dbc
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@74723834
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=32 RUNNABLE
+
+
+"Server thread" Id=29 RUNNABLE
+	at axn.b(SourceFile:35)
+	at apr.c(SourceFile:471)
+	at apr.a(SourceFile:464)
+	at bdp.N(SourceFile:274)
+	at aoz.dO(SourceFile:740)
+	at aoy.k(SourceFile:2505)
+	at aoz.k(SourceFile:538)
+	at aok.k(SourceFile:126)
+	...
+
+
+"Snooper Timer" Id=30 WAITING on java.util.TaskQueue@66401b64
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@66401b64
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer hack thread" Id=21 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at v$2.run(SourceFile:524)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@3605f06a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@3605f06a
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 RUNNABLE
+	at sun.misc.Unsafe.freeMemory(Native Method)
+	at java.nio.DirectByteBuffer$Deallocator.run(Unknown Source)
+	at sun.misc.Cleaner.clean(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at yg.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.1
+	Minecraft Version ID: 1.16.1
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_281, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 687640976 bytes (655 MB) / 1009778688 bytes (963 MB) up to 1009778688 bytes (963 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx1024M -Xms512M
+	Player Count: 1 / 20; [ze['lunarTroop'/3824, l='ServerLevel[Kovidland]', x=269.70, y=75.00, z=1727.30]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

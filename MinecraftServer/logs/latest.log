@@ -1,43 +1,51 @@
-[00:59:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:59:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:59:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:59:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:59:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:59:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:59:32] [main/INFO]: Reloading ResourceManager: Default
-[00:59:33] [Worker-Main-14/INFO]: Loaded 7 recipes
-[00:59:34] [Worker-Main-14/INFO]: Loaded 927 advancements
-[00:59:36] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[00:59:36] [Server thread/INFO]: Loading properties
-[00:59:36] [Server thread/INFO]: Default game type: SURVIVAL
-[00:59:36] [Server thread/INFO]: Generating keypair
-[00:59:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:59:37] [Server thread/INFO]: Using default channel type
-[00:59:39] [Server thread/INFO]: Preparing level "Kovidland"
-[00:59:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:44] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:45] [Server thread/INFO]: Preparing spawn area: 0%
-[00:59:45] [Server thread/INFO]: Preparing spawn area: 83%
-[00:59:46] [Server thread/INFO]: Preparing spawn area: 86%
-[00:59:49] [Server thread/INFO]: Time elapsed: 9738 ms
-[00:59:49] [Server thread/INFO]: Done (10.045s)! For help, type "help"
-[01:02:55] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:02:55] [Server thread/INFO]: lunarTroop[/192.168.1.79:56742] logged in with entity id 97 at (-15554.57501721717, 67.95246900151024, 880.1133230815432)
-[01:02:56] [Server thread/INFO]: lunarTroop joined the game
-[01:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
-[01:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
-[01:03:23] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -159.5, 69.0, 200.5]
-[01:03:23] [Server thread/WARN]: lunarTroop moved too quickly! 15370.622204440393,1.047530998489762,-697.7481200175583
-[01:04:07] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[01:04:07] [Server thread/INFO]: lunarTroop left the game
-[01:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[03:41:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:08] [main/INFO]: Reloading ResourceManager: Default
+[03:41:10] [Worker-Main-14/INFO]: Loaded 7 recipes
+[03:41:11] [Worker-Main-14/INFO]: Loaded 927 advancements
+[03:41:12] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[03:41:12] [Server thread/INFO]: Loading properties
+[03:41:12] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:12] [Server thread/INFO]: Generating keypair
+[03:41:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:13] [Server thread/INFO]: Using default channel type
+[03:41:19] [Server thread/INFO]: Preparing level "Kovidland"
+[03:41:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:28] [Server thread/INFO]: Time elapsed: 8884 ms
+[03:41:28] [Server thread/INFO]: Done (9.415s)! For help, type "help"
+[03:42:11] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[03:42:11] [Server thread/INFO]: lunarTroop[/192.168.1.79:64350] logged in with entity id 92 at (269.6999999880792, 75.0, 1727.300000011921)
+[03:42:11] [Server thread/INFO]: lunarTroop joined the game
+[03:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
+[03:42:23] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 4be65b9c-f6e0-4777-b1e7-48fd7ffcddf0
+[04:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12120ms or 242 ticks behind
+[04:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
+[04:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11117ms or 222 ticks behind
+[04:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11452ms or 229 ticks behind
+[04:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11089ms or 221 ticks behind
+[04:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11057ms or 221 ticks behind
+[04:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9595ms or 191 ticks behind
+[04:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[04:45:58] [Server thread/WARN]: lunarTroop moved too quickly! -9.086822529798326,1.8322033533667508,4.425859971811178
+[04:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10217ms or 204 ticks behind
+[04:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
+[04:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 206685ms or 4133 ticks behind
