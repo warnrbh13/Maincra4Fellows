@@ -1,51 +1,40 @@
-[03:41:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:41:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:41:08] [main/INFO]: Reloading ResourceManager: Default
-[03:41:10] [Worker-Main-14/INFO]: Loaded 7 recipes
-[03:41:11] [Worker-Main-14/INFO]: Loaded 927 advancements
-[03:41:12] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[03:41:12] [Server thread/INFO]: Loading properties
-[03:41:12] [Server thread/INFO]: Default game type: SURVIVAL
-[03:41:12] [Server thread/INFO]: Generating keypair
-[03:41:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:41:13] [Server thread/INFO]: Using default channel type
-[03:41:19] [Server thread/INFO]: Preparing level "Kovidland"
-[03:41:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:41:28] [Server thread/INFO]: Time elapsed: 8884 ms
-[03:41:28] [Server thread/INFO]: Done (9.415s)! For help, type "help"
-[03:42:11] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[03:42:11] [Server thread/INFO]: lunarTroop[/192.168.1.79:64350] logged in with entity id 92 at (269.6999999880792, 75.0, 1727.300000011921)
-[03:42:11] [Server thread/INFO]: lunarTroop joined the game
-[03:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
-[03:42:23] [Server thread/WARN]: Keeping entity minecraft:wolf that already exists with UUID 4be65b9c-f6e0-4777-b1e7-48fd7ffcddf0
-[04:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[04:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12120ms or 242 ticks behind
-[04:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
-[04:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11117ms or 222 ticks behind
-[04:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11452ms or 229 ticks behind
-[04:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11089ms or 221 ticks behind
-[04:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11057ms or 221 ticks behind
-[04:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9595ms or 191 ticks behind
-[04:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
-[04:45:58] [Server thread/WARN]: lunarTroop moved too quickly! -9.086822529798326,1.8322033533667508,4.425859971811178
-[04:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10217ms or 204 ticks behind
-[04:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3579ms or 71 ticks behind
-[04:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 206685ms or 4133 ticks behind
+[04:41:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:41:27] [main/INFO]: Reloading ResourceManager: Default
+[04:41:28] [Worker-Main-13/INFO]: Loaded 7 recipes
+[04:41:29] [Worker-Main-13/INFO]: Loaded 927 advancements
+[04:41:30] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[04:41:30] [Server thread/INFO]: Loading properties
+[04:41:30] [Server thread/INFO]: Default game type: SURVIVAL
+[04:41:30] [Server thread/INFO]: Generating keypair
+[04:41:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:41:30] [Server thread/INFO]: Using default channel type
+[04:41:32] [Server thread/INFO]: Preparing level "Kovidland"
+[04:41:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:36] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:36] [Server thread/INFO]: Preparing spawn area: 0%
+[04:41:37] [Server thread/INFO]: Preparing spawn area: 90%
+[04:41:38] [Server thread/INFO]: Time elapsed: 6553 ms
+[04:41:39] [Server thread/INFO]: Done (6.796s)! For help, type "help"
+[04:42:08] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[04:42:09] [Server thread/INFO]: lunarTroop[/192.168.1.79:49967] logged in with entity id 92 at (-2040.300000011921, 33.0, 272.7621440990905)
+[04:42:09] [Server thread/INFO]: lunarTroop joined the game
+[04:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[05:53:14] [Server thread/WARN]: Horse (vehicle of lunarTroop) moved wrongly! 0.35418045621008787
+[05:56:03] [Server thread/WARN]: Horse (vehicle of lunarTroop) moved wrongly! 0.2538587585033838
+[06:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34056ms or 681 ticks behind
+[06:03:26] [Server thread/WARN]: lunarTroop moved too quickly! 5.944899095131859,4.419999986886978,6.831719496825144
+[06:03:26] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[06:03:26] [Server thread/INFO]: lunarTroop left the game
