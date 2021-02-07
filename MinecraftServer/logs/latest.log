@@ -1,40 +1,43 @@
-[04:41:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:41:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:41:27] [main/INFO]: Reloading ResourceManager: Default
-[04:41:28] [Worker-Main-13/INFO]: Loaded 7 recipes
-[04:41:29] [Worker-Main-13/INFO]: Loaded 927 advancements
-[04:41:30] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[04:41:30] [Server thread/INFO]: Loading properties
-[04:41:30] [Server thread/INFO]: Default game type: SURVIVAL
-[04:41:30] [Server thread/INFO]: Generating keypair
-[04:41:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:41:30] [Server thread/INFO]: Using default channel type
-[04:41:32] [Server thread/INFO]: Preparing level "Kovidland"
-[04:41:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:35] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:36] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:36] [Server thread/INFO]: Preparing spawn area: 0%
-[04:41:37] [Server thread/INFO]: Preparing spawn area: 90%
-[04:41:38] [Server thread/INFO]: Time elapsed: 6553 ms
-[04:41:39] [Server thread/INFO]: Done (6.796s)! For help, type "help"
-[04:42:08] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[04:42:09] [Server thread/INFO]: lunarTroop[/192.168.1.79:49967] logged in with entity id 92 at (-2040.300000011921, 33.0, 272.7621440990905)
-[04:42:09] [Server thread/INFO]: lunarTroop joined the game
-[04:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
-[05:53:14] [Server thread/WARN]: Horse (vehicle of lunarTroop) moved wrongly! 0.35418045621008787
-[05:56:03] [Server thread/WARN]: Horse (vehicle of lunarTroop) moved wrongly! 0.2538587585033838
-[06:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34056ms or 681 ticks behind
-[06:03:26] [Server thread/WARN]: lunarTroop moved too quickly! 5.944899095131859,4.419999986886978,6.831719496825144
-[06:03:26] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:03:26] [Server thread/INFO]: lunarTroop left the game
+[00:46:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:46:44] [main/INFO]: Reloading ResourceManager: Default
+[00:46:45] [Worker-Main-13/INFO]: Loaded 7 recipes
+[00:46:46] [Worker-Main-13/INFO]: Loaded 927 advancements
+[00:46:48] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[00:46:48] [Server thread/INFO]: Loading properties
+[00:46:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:48] [Server thread/INFO]: Generating keypair
+[00:46:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:48] [Server thread/INFO]: Using default channel type
+[00:46:50] [Server thread/INFO]: Preparing level "Kovidland"
+[00:46:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:55] [Server thread/INFO]: Preparing spawn area: 68%
+[00:46:57] [Server thread/INFO]: Time elapsed: 6402 ms
+[00:46:57] [Server thread/INFO]: Done (6.680s)! For help, type "help"
+[00:47:15] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[00:47:16] [Server thread/INFO]: lunarTroop[/192.168.1.79:60510] logged in with entity id 91 at (-1871.5729692481384, 78.0, 1425.1913056567194)
+[00:47:16] [Server thread/INFO]: lunarTroop joined the game
+[00:52:33] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[00:52:33] [Server thread/INFO]: lunarTroop left the game
+[01:16:15] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:16:17] [Server thread/INFO]: lunarTroop[/192.168.1.79:61334] logged in with entity id 1098 at (-1826.1781960580965, 77.5625, 1151.7290020890935)
+[01:16:17] [Server thread/INFO]: lunarTroop joined the game
+[01:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[02:47:54] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -662.5, 64.0, 537.5]
+[03:00:26] [Server thread/INFO]: [lunarTroop: Set own game mode to Creative Mode]
+[03:25:57] [Server thread/INFO]: [lunarTroop: Set own game mode to Survival Mode]
+[03:26:19] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[03:26:19] [Server thread/INFO]: lunarTroop left the game
