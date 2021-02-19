@@ -1,0 +1,241 @@
+---- Minecraft Crash Report ----
+// I blame Dinnerbone.
+
+Time: 19/02/21 2:46
+Description: Watching Server
+
+java.lang.Error
+	at it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.remove(Long2ByteOpenHashMap.java:361)
+	at cwm.a(SourceFile:116)
+	at cwm.a(SourceFile:169)
+	at cwm.b(SourceFile:191)
+	at ys.a(SourceFile:27)
+	at cwm.b(SourceFile:221)
+	at yv$b.a(SourceFile:298)
+	at yv$c.a(SourceFile:364)
+	at yv.a(SourceFile:106)
+	at zb.o(SourceFile:284)
+	at zb.a(SourceFile:335)
+	at zd.a(SourceFile:347)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+	at net.minecraft.server.MinecraftServer$$Lambda$3050/1491156005.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.remove(Long2ByteOpenHashMap.java:361)
+	at cwm.a(SourceFile:116)
+	at cwm.a(SourceFile:169)
+	at cwm.b(SourceFile:191)
+	at ys.a(SourceFile:27)
+	at cwm.b(SourceFile:221)
+	at yv$b.a(SourceFile:298)
+	at yv$c.a(SourceFile:364)
+	at yv.a(SourceFile:106)
+	at zb.o(SourceFile:284)
+	at zb.a(SourceFile:335)
+	at zd.a(SourceFile:347)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #2" Id=98 RUNNABLE
+	at io.netty.util.concurrent.FastThreadLocal.get(FastThreadLocal.java:139)
+	at io.netty.buffer.PooledByteBufAllocator.newDirectBuffer(PooledByteBufAllocator.java:319)
+	at io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:185)
+	at io.netty.buffer.AbstractByteBufAllocator.directBuffer(AbstractByteBufAllocator.java:176)
+	at io.netty.buffer.AbstractByteBufAllocator.ioBuffer(AbstractByteBufAllocator.java:137)
+	at io.netty.channel.DefaultMaxMessagesRecvByteBufAllocator$MaxMessageHandle.allocate(DefaultMaxMessagesRecvByteBufAllocator.java:114)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:147)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:647)
+	...
+
+
+"Worker-Main-71" Id=97 WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-70" Id=95 WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-69" Id=96 WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-68" Id=94 TIMED_WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-59" Id=85 WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-46" Id=72 WAITING on java.util.concurrent.ForkJoinPool@3f475be
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@3f475be
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Netty Server IO #1" Id=44 RUNNABLE
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(Unknown Source)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(Unknown Source)
+	-  locked java.util.jar.JarFile@d339bb0
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at sun.misc.Resource.getBytes(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	...
+
+
+"Server Watchdog" Id=41 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at yg.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=35 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@4c0e918b
+	-  locked java.util.Collections$UnmodifiableSet@6c774431
+	-  locked sun.nio.ch.WindowsSelectorImpl@7d08bc14
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=34 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@149b3715
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@149b3715
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=33 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@2c216ec4
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@7aa1e1bd
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=32 RUNNABLE
+
+
+"Server thread" Id=29 RUNNABLE
+	at it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.remove(Long2ByteOpenHashMap.java:361)
+	at cwm.a(SourceFile:116)
+	at cwm.a(SourceFile:169)
+	at cwm.b(SourceFile:191)
+	at ys.a(SourceFile:27)
+	at cwm.b(SourceFile:221)
+	at yv$b.a(SourceFile:298)
+	at yv$c.a(SourceFile:364)
+	...
+
+
+"Snooper Timer" Id=30 WAITING on java.util.TaskQueue@42f11ae1
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@42f11ae1
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer hack thread" Id=21 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at v$2.run(SourceFile:524)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@f9fbe35
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@f9fbe35
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@286fb64c
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@286fb64c
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at yg.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.1
+	Minecraft Version ID: 1.16.1
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_281, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 647185144 bytes (617 MB) / 1005060096 bytes (958 MB) up to 1005060096 bytes (958 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx1024M -Xms512M
+	Player Count: 0 / 20; []
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

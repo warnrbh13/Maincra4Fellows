@@ -2750,6 +2750,7 @@
       "spider_eye": "2020-08-02 17:02:38 -0500",
       "rabbit": "2021-01-09 19:26:28 -0600",
       "cooked_cod": "2021-01-27 02:22:28 -0600",
+      "poisonous_potato": "2021-02-19 04:54:15 -0600",
       "pumpkin_pie": "2021-02-10 19:19:05 -0600",
       "pufferfish": "2021-01-28 04:19:01 -0600",
       "bread": "2020-07-21 20:45:21 -0500",
@@ -3399,6 +3400,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2021-01-24 01:44:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2021-02-19 03:36:16 -0600"
     },
     "done": true
   },
@@ -4506,6 +4513,7 @@
       "textures/entity/cat/jellie.png": "2020-11-01 21:07:41 -0600",
       "textures/entity/cat/black.png": "2020-11-07 23:14:03 -0600",
       "textures/entity/cat/siamese.png": "2021-02-10 20:54:44 -0600",
+      "textures/entity/cat/ragdoll.png": "2021-02-19 03:19:54 -0600",
       "textures/entity/cat/british_shorthair.png": "2020-07-19 01:12:59 -0500",
       "textures/entity/cat/persian.png": "2021-01-26 23:57:10 -0600",
       "textures/entity/cat/red.png": "2020-07-19 01:11:43 -0500",
