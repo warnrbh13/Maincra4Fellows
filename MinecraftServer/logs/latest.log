@@ -1,43 +1,107 @@
-[00:46:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:46:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:46:44] [main/INFO]: Reloading ResourceManager: Default
-[00:46:45] [Worker-Main-13/INFO]: Loaded 7 recipes
-[00:46:46] [Worker-Main-13/INFO]: Loaded 927 advancements
-[00:46:48] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[00:46:48] [Server thread/INFO]: Loading properties
-[00:46:48] [Server thread/INFO]: Default game type: SURVIVAL
-[00:46:48] [Server thread/INFO]: Generating keypair
-[00:46:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:46:48] [Server thread/INFO]: Using default channel type
-[00:46:50] [Server thread/INFO]: Preparing level "Kovidland"
-[00:46:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:54] [Server thread/INFO]: Preparing spawn area: 0%
-[00:46:55] [Server thread/INFO]: Preparing spawn area: 68%
-[00:46:57] [Server thread/INFO]: Time elapsed: 6402 ms
-[00:46:57] [Server thread/INFO]: Done (6.680s)! For help, type "help"
-[00:47:15] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:47:16] [Server thread/INFO]: lunarTroop[/192.168.1.79:60510] logged in with entity id 91 at (-1871.5729692481384, 78.0, 1425.1913056567194)
-[00:47:16] [Server thread/INFO]: lunarTroop joined the game
-[00:52:33] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:52:33] [Server thread/INFO]: lunarTroop left the game
-[01:16:15] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[01:16:17] [Server thread/INFO]: lunarTroop[/192.168.1.79:61334] logged in with entity id 1098 at (-1826.1781960580965, 77.5625, 1151.7290020890935)
-[01:16:17] [Server thread/INFO]: lunarTroop joined the game
-[01:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
-[02:47:54] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -662.5, 64.0, 537.5]
-[03:00:26] [Server thread/INFO]: [lunarTroop: Set own game mode to Creative Mode]
-[03:25:57] [Server thread/INFO]: [lunarTroop: Set own game mode to Survival Mode]
-[03:26:19] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[03:26:19] [Server thread/INFO]: lunarTroop left the game
+[01:18:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:18:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:18:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:18:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:18:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:18:04] [main/INFO]: Reloading ResourceManager: Default
+[01:18:06] [Worker-Main-13/INFO]: Loaded 7 recipes
+[01:18:07] [Worker-Main-13/INFO]: Loaded 927 advancements
+[01:18:11] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[01:18:11] [Server thread/INFO]: Loading properties
+[01:18:11] [Server thread/INFO]: Default game type: SURVIVAL
+[01:18:11] [Server thread/INFO]: Generating keypair
+[01:18:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:18:13] [Server thread/INFO]: Using default channel type
+[01:18:17] [Server thread/INFO]: Preparing level "Kovidland"
+[01:18:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:47] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:48] [Server thread/INFO]: Preparing spawn area: 83%
+[01:18:48] [Server thread/INFO]: Preparing spawn area: 83%
+[01:18:48] [Server thread/INFO]: Preparing spawn area: 83%
+[01:18:49] [Server thread/INFO]: Time elapsed: 29612 ms
+[01:18:49] [Server thread/INFO]: Done (31.363s)! For help, type "help"
+[01:23:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@48d11aca[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:65214): Took too long to log in
+[01:23:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@48d11aca[id=<null>,name=lunarTroop,properties={},legacy=false] (/192.168.1.79:65214) lost connection: Took too long to log in
+[01:23:41] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:24:06] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:24:09] [Server thread/INFO]: lunarTroop[/192.168.1.79:65245] logged in with entity id 98 at (15658.585121244998, 64.0, 5426.138424573943)
+[01:24:09] [Server thread/INFO]: lunarTroop joined the game
+[01:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28284ms or 565 ticks behind
+[01:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18060ms or 361 ticks behind
+[01:25:24] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[01:25:24] [Server thread/INFO]: lunarTroop left the game
+[01:34:01] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[01:34:03] [Server thread/INFO]: lunarTroop[/192.168.1.79:49341] logged in with entity id 311 at (15654.5, 64.0000002, 5423.5)
+[01:34:03] [Server thread/INFO]: lunarTroop joined the game
+[01:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7766ms or 155 ticks behind
+[01:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22375ms or 447 ticks behind
+[01:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11457ms or 229 ticks behind
+[01:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25263ms or 505 ticks behind
+[01:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15727ms or 314 ticks behind
+[01:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[01:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3275ms or 65 ticks behind
+[01:37:28] [Server thread/WARN]: lunarTroop moved too quickly! -17.23206542576736,-2.4488775802766156,0.8773328434926952
+[01:37:34] [Server thread/WARN]: lunarTroop moved too quickly! -17.08203668781971,-4.22330620946974,1.7547088687897485
+[01:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[01:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[01:39:24] [Server thread/WARN]: lunarTroop moved too quickly! -17.198695223331015,-1.9993970800410494,-3.6714705107597183
+[01:39:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13741ms or 274 ticks behind
+[01:39:57] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[01:39:57] [Server thread/INFO]: lunarTroop left the game
+[01:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8273ms or 165 ticks behind
