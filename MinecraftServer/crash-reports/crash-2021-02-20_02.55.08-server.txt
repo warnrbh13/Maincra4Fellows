@@ -1,0 +1,283 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 20/02/21 2:55
+Description: Watching Server
+
+java.lang.Error
+	at cfi$a.m(SourceFile:950)
+	at chk.b(SourceFile:43)
+	at chj.a(SourceFile:226)
+	at chj.b(SourceFile:218)
+	at bqb.b(SourceFile:460)
+	at czi.a(SourceFile:53)
+	at czi.a(SourceFile:80)
+	at czi.b(SourceFile:70)
+	at czi.a(SourceFile:36)
+	at czh.a(SourceFile:97)
+	at czh.a(SourceFile:45)
+	at awv.a(SourceFile:194)
+	at awv.a(SourceFile:165)
+	at awv.a(SourceFile:224)
+	at ayj.eU(SourceFile:96)
+	at auc.e(SourceFile:73)
+	at avx.e(SourceFile:55)
+	at auh$$Lambda$3547/280036247.accept(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source)
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.util.Iterator.forEachRemaining(Unknown Source)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source)
+	at auh.b(SourceFile:88)
+	at aoz.dO(SourceFile:732)
+	at aoy.k(SourceFile:2505)
+	at aoz.k(SourceFile:538)
+	at ayh.k(SourceFile:151)
+	at aoy.j(SourceFile:2251)
+	at aoz.j(SourceFile:338)
+	at ayj.j(SourceFile:75)
+	at zd.a(SourceFile:615)
+	at zd$$Lambda$3532/413731224.accept(Unknown Source)
+	at bqb.a(SourceFile:603)
+	at zd.a(SourceFile:405)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+	at net.minecraft.server.MinecraftServer$$Lambda$3063/1769677013.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at cfi$a.m(SourceFile:950)
+	at chk.b(SourceFile:43)
+	at chj.a(SourceFile:226)
+	at chj.b(SourceFile:218)
+	at bqb.b(SourceFile:460)
+	at czi.a(SourceFile:53)
+	at czi.a(SourceFile:80)
+	at czi.b(SourceFile:70)
+	at czi.a(SourceFile:36)
+	at czh.a(SourceFile:97)
+	at czh.a(SourceFile:45)
+	at awv.a(SourceFile:194)
+	at awv.a(SourceFile:165)
+	at awv.a(SourceFile:224)
+	at ayj.eU(SourceFile:96)
+	at auc.e(SourceFile:73)
+	at avx.e(SourceFile:55)
+	at auh$$Lambda$3547/280036247.accept(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source)
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source)
+	at java.util.Iterator.forEachRemaining(Unknown Source)
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source)
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source)
+	at auh.b(SourceFile:88)
+	at aoz.dO(SourceFile:732)
+	at aoy.k(SourceFile:2505)
+	at aoz.k(SourceFile:538)
+	at ayh.k(SourceFile:151)
+	at aoy.j(SourceFile:2251)
+	at aoz.j(SourceFile:338)
+	at ayj.j(SourceFile:75)
+	at zd.a(SourceFile:615)
+	at zd$$Lambda$3532/413731224.accept(Unknown Source)
+	at bqb.a(SourceFile:603)
+	at zd.a(SourceFile:405)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:873)
+	at yd.b(SourceFile:306)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:813)
+	at net.minecraft.server.MinecraftServer.v(SourceFile:672)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:256)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #3" Id=144 RUNNABLE
+	at java.util.zip.ZipFile.getEntry(Native Method)
+	at java.util.zip.ZipFile.getEntry(Unknown Source)
+	-  locked java.util.jar.JarFile@6f4ebb7a
+	at java.util.jar.JarFile.getEntry(Unknown Source)
+	at java.util.jar.JarFile.getJarEntry(Unknown Source)
+	at sun.misc.URLClassPath$JarLoader.getResource(Unknown Source)
+	at sun.misc.URLClassPath.getResource(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	...
+
+
+"Worker-Main-110" Id=140 WAITING on java.util.concurrent.ForkJoinPool@65b6d00a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@65b6d00a
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Worker-Main-108" Id=138 TIMED_WAITING on java.util.concurrent.ForkJoinPool@65b6d00a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@65b6d00a
+	at java.util.concurrent.ForkJoinPool.awaitWork(Unknown Source)
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+
+"Netty Server IO #2" Id=60 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@20b442d8
+	-  locked java.util.Collections$UnmodifiableSet@3a3ba8df
+	-  locked sun.nio.ch.WindowsSelectorImpl@115e212b
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Server Watchdog" Id=43 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at yg.run(SourceFile:45)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #1" Id=42 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@423b958a
+	-  locked java.util.Collections$UnmodifiableSet@409bbd97
+	-  locked sun.nio.ch.WindowsSelectorImpl@2781980b
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #0" Id=35 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@4736b2a9
+	-  locked java.util.Collections$UnmodifiableSet@593ff800
+	-  locked sun.nio.ch.WindowsSelectorImpl@44d581b5
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=34 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@6fbf18e4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@6fbf18e4
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"DestroyJavaVM" Id=33 RUNNABLE
+
+
+"Server console handler" Id=32 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@1d6e5c40
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@3b374815
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"Server thread" Id=29 RUNNABLE
+	at cfi$a.m(SourceFile:950)
+	at chk.b(SourceFile:43)
+	at chj.a(SourceFile:226)
+	at chj.b(SourceFile:218)
+	at bqb.b(SourceFile:460)
+	at czi.a(SourceFile:53)
+	at czi.a(SourceFile:80)
+	at czi.b(SourceFile:70)
+	...
+
+
+"Snooper Timer" Id=30 WAITING on java.util.TaskQueue@5387beef
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@5387beef
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer hack thread" Id=21 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at v$2.run(SourceFile:524)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@44e8f443
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@44e8f443
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@2b8b2cc2
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@2b8b2cc2
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at yg.run(SourceFile:61)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.1
+	Minecraft Version ID: 1.16.1
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_281, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 689904440 bytes (657 MB) / 1029177344 bytes (981 MB) up to 1029177344 bytes (981 MB)
+	CPUs: 8
+	JVM Flags: 2 total; -Xmx1024M -Xms512M
+	Player Count: 1 / 20; [ze['lunarTroop'/457, l='ServerLevel[Kovidland]', x=3624.07, y=41.17, z=2029.63]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

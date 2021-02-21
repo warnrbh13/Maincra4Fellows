@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-02-20 05:30:23 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-07-17 23:04:32 -0500"
@@ -722,6 +728,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2020-07-17 23:22:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-02-20 05:54:47 -0600"
     },
     "done": true
   },
@@ -4515,6 +4527,7 @@
       "textures/entity/cat/siamese.png": "2021-02-10 20:54:44 -0600",
       "textures/entity/cat/ragdoll.png": "2021-02-19 03:19:54 -0600",
       "textures/entity/cat/british_shorthair.png": "2020-07-19 01:12:59 -0500",
+      "textures/entity/cat/all_black.png": "2021-02-21 05:09:33 -0600",
       "textures/entity/cat/persian.png": "2021-01-26 23:57:10 -0600",
       "textures/entity/cat/red.png": "2020-07-19 01:11:43 -0500",
       "textures/entity/cat/calico.png": "2021-01-27 04:27:07 -0600"

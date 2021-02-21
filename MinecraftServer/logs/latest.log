@@ -1,401 +1,64 @@
-[03:46:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[03:46:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:46:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:46:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:46:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:46:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:46:54] [main/INFO]: Reloading ResourceManager: Default
-[03:46:55] [Worker-Main-11/INFO]: Loaded 7 recipes
-[03:46:56] [Worker-Main-11/INFO]: Loaded 927 advancements
-[03:47:00] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[03:47:00] [Server thread/INFO]: Loading properties
-[03:47:00] [Server thread/INFO]: Default game type: SURVIVAL
-[03:47:00] [Server thread/INFO]: Generating keypair
-[03:47:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:47:02] [Server thread/INFO]: Using default channel type
-[03:47:04] [Server thread/INFO]: Preparing level "Kovidland"
-[03:47:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:09] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:10] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:11] [Server thread/INFO]: Preparing spawn area: 0%
-[03:47:11] [Server thread/INFO]: Preparing spawn area: 83%
-[03:47:12] [Server thread/INFO]: Preparing spawn area: 83%
-[03:47:13] [Server thread/INFO]: Time elapsed: 9261 ms
-[03:47:13] [Server thread/INFO]: Done (9.612s)! For help, type "help"
-[03:56:08] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[03:56:09] [Server thread/INFO]: lunarTroop[/192.168.1.79:55244] logged in with entity id 97 at (8948.687014661877, 63.0, 3854.671249825337)
-[03:56:09] [Server thread/INFO]: lunarTroop joined the game
-[03:56:10] [Server thread/WARN]: Keeping entity minecraft:boat that already exists with UUID 2c0f0b86-8783-4aab-9a4c-e84f2ebe2952
-[03:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
-[03:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[04:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[04:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
-[04:17:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
-[04:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[04:21:56] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -7.598172724164215,0.0,-7.095134879377838
-[04:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
-[04:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40535ms or 810 ticks behind
-[04:28:10] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[04:28:10] [Server thread/INFO]: lunarTroop left the game
-[04:28:13] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[04:28:16] [Server thread/INFO]: lunarTroop[/192.168.1.79:56630] logged in with entity id 8348 at (7867.826009787977, 62.523265032136806, 2348.2387098842896)
-[04:28:17] [Server thread/INFO]: lunarTroop joined the game
-[04:28:27] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -1.86664928393202,0.0,-10.006258535813231
-[04:28:27] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -1.6153045938699506,0.0,-10.278951857782431
-[04:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
-[04:29:02] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -9.035912456138249,0.0,5.145993680734591
-[04:29:02] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -9.382663991497793,0.0,5.345378840252124
-[04:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6037ms or 120 ticks behind
-[04:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23419ms or 468 ticks behind
-[04:59:34] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=7590, y=59, z=2053} fu{x=7589, y=59, z=2053}
-[05:00:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=7584, y=58, z=2054} fu{x=7584, y=59, z=2054}
-[05:00:08] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=7584, y=58, z=2054} fu{x=7584, y=59, z=2054}
-[05:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.7626968718568605
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 1.4696759511289201
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.5577960053897186
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.3372229732822234
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.35422005063173856
-[05:21:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.26991682631160074
-[05:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12198ms or 243 ticks behind
-[05:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[05:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9187ms or 183 ticks behind
-[05:49:10] [Server thread/WARN]: lunarTroop moved too quickly! -9.954061821785217,-0.17675927506424216,1.2702601028640856
-[05:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
-[06:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[06:03:59] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 2.2883909991905966
-[06:03:59] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 3.5487776856753044
-[06:03:59] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 4.82323158597319
-[06:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 5.863551386164545
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 7.165474911344063
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 8.480802146362294
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -10.246582868437144,0.0,0.3165511148006317
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -11.588061540184754,0.0,0.322958436888257
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -12.942290569652869,0.0,0.323455657104887
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -14.309054974450191,0.0,0.31844192666244453
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -15.688141076694592,0.0,0.30830108611007745
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -17.079337106498315,0.0,0.29340574340380954
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -18.48243279127928,0.0,0.2741136666311377
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -19.897219899508855,0.0,0.2507718624435711
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -21.323492274397722,0.0,0.22371677265891776
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.5812362565857256
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.5917583973496221
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 2.049511076557792
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 3.5173257724472933
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 4.994757776010374
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 6.481163345471941
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 7.975843553860614
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -10.333685407838857,0.0,-0.46124433854470226
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -11.842622795144052,0.0,-0.571236749311538
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -13.357463604585064,0.0,-0.6962942798827498
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -14.877345752854126,0.0,-0.8375914391540391
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -16.40138340519661,0.0,-0.9962141315168083
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -17.928666601077566,0.0,-1.1731710904862211
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -19.45827004619059,0.0,-1.369388633404924
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -20.989670511239638,0.0,-1.585154130869796
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -22.23189295342854,0.0,-1.7790439011787385
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -23.246090619089955,0.0,-1.9550512031091785
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -24.016603266023594,0.0,-2.1047628460496526
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -24.610881212608547,0.0,-2.2340120622072845
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -25.07767314377452,0.0,-2.347388274674813
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -25.39303058644873,0.0,-2.4342597269376256
-[06:04:00] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! -25.617722343913556,0.0,-2.5048585911090413
-[06:04:04] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.5211053186076242
-[06:04:04] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.4297971191672332
-[06:04:04] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.34284912880320917
-[06:04:04] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved wrongly! 0.26389279244722275
-[06:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
-[06:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
-[06:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27908ms or 558 ticks behind
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.320404069464985,0.0,0.02447715361677183
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.711931400014691,0.0,-0.036673621146974256
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.102575798553517,0.0,-0.10334639091797726
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.492337466363551,0.0,-0.1752748143521785
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.881222630745015,0.0,-0.2521929526146778
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.26924466722403,0.0,-0.33383173480660844
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.656420277836787,0.0,-0.41993034925349093
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.042771926369824,0.0,-0.5102282491925507
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.428323905698107,0.0,-0.6044761261327949
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.813104870612278,0.0,-0.7024276064614696
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.197143840250192,0.0,-0.8038498972719026
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.580471573547129,0.0,-0.9085188557380661
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.963120529366279,0.0,-1.016218171604578
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 15.345123519313802,0.0,-1.1267422356452244
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 15.726512446844936,0.0,-1.2398986998546206
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.10731976898478,0.0,-1.3555035722536104
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.487577185549526,0.0,-1.4733840004059857
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.86731575584463,0.0,-1.5933771760901436
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.2465659962445,0.0,-1.7153293429846599
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.625356626907887,0.0,-1.8390984966281394
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.00371611485616,0.0,-1.9645496236400959
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.381671376808754,0.0,-2.0915576003128535
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.759249297670067,0.0,-2.22000262177653
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 9.961953394345073,0.0,-2.6927648086784757
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.338255862035567,0.0,-2.825941187538092
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.714293145460488,0.0,-2.9600775809678908
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.05272669157739,0.0,-3.080800331856608
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.357316875014021,0.0,-3.1894508047782892
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.631448032844673,0.0,-3.2872362278174023
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.878166068356677,0.0,-3.3752431062212054
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.100212294435096,0.0,-3.4544492946863556
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.300053892611686,0.0,-3.5257348624165843
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.479911326206093,0.0,-3.5898918716741264
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.641783012153155,0.0,-3.647633178476326
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.787467525646207,0.0,-3.69960035322174
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.918583584316366,0.0,-3.7463708092536763
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.036588033993667,0.0,-3.788464218567242
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.14279203588967,0.0,-3.826348285945869
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.23837563506413,0.0,-3.8604439456833006
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.324400872042133,0.0,-3.8911300386341736
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.40182358327138,0.0,-3.9187475215583163
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.471504021531928,0.0,-3.9436032555315705
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.534216414304865,0.0,-3.965973415515009
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.590657566305254,0.0,-3.9861065589666396
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.64145460175996,0.0,-4.004226387593235
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.687171932458114,0.0,-4.020534232925002
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.72831752899674,0.0,-4.035211293334896
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.76534856490025,0.0,-4.048420647353851
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.7986764963307,0.0,-4.060309065655929
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.828671633823433,0.0,-4.071008641844401
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.855667256851575,0.0,-4.080638260158821
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.8799633169333,0.0,-4.089304916412402
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.901829770427867,0.0,-4.09710490683392
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.921509578051428,0.0,-4.104124898027294
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.939221404443288,0.0,-4.110442889933893
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.955162047773683,0.0,-4.116129082499356
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.969508626390962,0.0,-4.121246655672621
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.982420546804406,0.0,-4.125852471406461
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.994041274868778,0.0,-4.129997705457072
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.004499929849771,0.0,-4.133728416003805
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.013912719083237,0.0,-4.137086055407053
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.022384229168892,0.0,-4.140107930789782
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.030008588043984,0.0,-4.142827618562251
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.036870510849894,0.0,-4.145275337492649
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.043046241211414,0.0,-4.147478284471617
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.04860439838967,0.0,-4.1494609367002795
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.053606739717452,0.0,-4.1512453236587135
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.058108846793402,0.0,-4.152851271878717
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.062160743054392,0.0,-4.15429662523843
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.06580744959274,0.0,-4.155597443227862
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.069089485390123,0.0,-4.1567681793872
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.072043317529733,0.0,-4.15782184190266
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.074701766384806,0.0,-4.158770138141563
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.077094370290979,0.0,-4.159623604733952
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.079247713749737,0.0,-4.160391724646843
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.081185722810915,0.0,-4.161083032550096
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.082929930919818,0.0,-4.16170520964647
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.084499718176176,0.0,-4.162265169018383
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.085912526669745,0.0,-4.162769132439735
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.087184054279987,0.0,-4.16322269950706
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.088328429098965,0.0,-4.163630909856693
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.08935836640876,0.0,-4.163998299161676
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.090285309963292,0.0,-4.164328949527317
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.091119559140225,0.0,-4.164626534848594
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.0918703833795,0.0,-4.164894361630559
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.092546125176796,0.0,-4.165135405728051
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.093154292778308,0.0,-4.165352345409929
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 9.688098881820224,0.0,-3.6166105208419594
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.027917284533032,0.0,-3.7485919981145344
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.37104032534944,0.0,-3.8818569593461234
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 10.717137540380008,0.0,-4.016277056110084
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.065911512132516,0.0,-4.151736774825849
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.41709456487115,0.0,-4.288132153273409
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 11.77044579043968,0.0,-4.425369625457051
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.125748371503505,0.0,-4.563364981983341
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.482807172466437,0.0,-4.7020424343998
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 12.841446571296729,0.0,-4.841333773101269
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.201508508170264,0.0,-4.981177609444558
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.562850729248566,0.0,-5.121518693652206
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 13.925345206080692,0.0,-5.262307300926068
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.288876713063473,0.0,-5.403498678948836
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 14.653341547157652,0.0,-5.545052550636001
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 15.018646375629487,0.0,-5.6869326666123925
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 15.38470719902125,0.0,-5.829106402441312
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 15.751448417822758,0.0,-5.971544396130639
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.118801992477074,0.0,-6.11422022188799
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.486706687384412,0.0,-6.25711009650081
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.855107390505964,0.0,-6.400192615078595
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.223954501008848,0.0,-6.543448513220028
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.593203378144153,0.0,-6.6868604529647655
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.962813845238998,0.0,-6.830412830148816
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.332749743288787,0.0,-6.974091601024838
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.702978529190204,0.0,-7.117884126220588
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 19.07347091415113,0.0,-7.261779030301341
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 19.444200538259338,0.0,-7.4057660753762775
-[06:44:41] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 19.815143677594733,0.0,-7.5498360473436605
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.18652598227709,0.0,-7.693327868099459
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.55874153676814,0.0,-7.835046900866928
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.93225882469278,0.0,-7.9733622933736115
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 21.307371018391223,0.0,-8.106965292629411
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 21.68423962061206,0.0,-8.234827214194183
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.062928526627275,0.0,-8.356162591477414
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.443430578591233,0.0,-8.47039784527874
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.82568980298356,0.0,-8.577130256476266
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 23.20961639888901,0.0,-8.67610905858055
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 23.59509947121842,0.0,-8.767206308019695
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 23.98201610269325,0.0,-8.850397823329104
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 24.37023827810981,0.0,-8.92574187329069
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 24.75963778625055,0.0,-8.993367439417852
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 25.150089681652844,0.0,-9.053452001229743
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.189522452681558,0.0,-5.6201616499333795
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.58172857519412,0.0,-5.665855800376221
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 16.974651821884436,0.0,-5.704753579660746
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.368197007263007,0.0,-5.737148006288635
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 17.76227729837683,0.0,-5.763337460032062
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.156814608898912,0.0,-5.783628932797228
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.551795091835174,0.0,-5.799025171717631
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 18.947236914227688,0.0,-5.811083799929293
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 19.34313430563998,0.0,-5.821802341964258
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 19.739418910382938,0.0,-5.832806341854393
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.135983707642026,0.0,-5.845411524345991
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.53270052745438,0.0,-5.860665424107992
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 20.929432983867628,0.0,-5.8793854988955445
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 21.326045063769016,0.0,-5.902197604185858
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 21.722407687091163,0.0,-5.929563195381661
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.11840240562333,0.0,-5.961807687353939
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.513923171047736,0.0,-5.999145946831504
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 22.908878332225868,0.0,-6.041697678333094
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 23.303190838334103,0.0,-6.089504981895743
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 23.696797646824052,0.0,-6.142548073538592
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 24.08964952213819,0.0,-6.2007556366781955
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 24.481709409141786,0.0,-6.264017775216644
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 24.872950470021806,0.0,-6.332197575394048
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 25.26335725302488,0.0,-6.405130406365515
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 25.652923309605285,0.0,-6.482634300815789
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 26.04164990667232,0.0,-6.5645155582515144
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 26.429544673900182,0.0,-6.65057374419348
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 26.81662024101979,0.0,-6.7406061466062965
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 27.20289411406702,0.0,-6.834408119139425
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 27.588388523028243,0.0,-6.931773381659923
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 27.97312773289741,0.0,-7.032501524315421
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 28.35713928931318,0.0,-7.136393864716638
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 28.740451328660583,0.0,-7.243260569309314
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 29.123093915979553,0.0,-7.352916195005719
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 29.50509768608481,0.0,-7.465182901853495
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 29.886493872268602,0.0,-7.5798897253184805
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 30.26731300593201,0.0,-7.69687551624429
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 30.64758635768112,0.0,-7.815984378378971
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 31.027343263152943,0.0,-7.937072356177168
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 31.406614017349057,0.0,-8.05999906395823
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 31.78542714119294,0.0,-8.18463452804258
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 32.16381091494304,0.0,-8.310854561822453
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 32.54179208723281,0.0,-8.438543787547815
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 32.919396035682894,0.0,-8.567594758233554
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 33.29664691890457,0.0,-8.697907169240125
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 33.673567805850325,0.0,-8.829387148695332
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 34.05018079595584,0.0,-8.961946617011108
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 34.426507119818325,0.0,-9.095502711380504
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 34.80256724097899,0.0,-9.229977266893457
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 35.17837956172434,0.0,-9.365299929544562
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 35.553962003842116,0.0,-9.50140379513914
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 35.92933068949105,0.0,-9.638228647109372
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 36.304501495794284,0.0,-9.775716707747733
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 36.679488708437475,0.0,-9.913815974324734
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 37.05430655544387,0.0,-10.052476063450058
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 37.428967838308836,0.0,-10.19165162821082
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 37.80348407465317,0.0,-10.33130185638629
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 38.17786563033451,0.0,-10.47139001511664
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 38.55212320925693,0.0,-10.611879465755692
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 38.9262664449343,0.0,-10.752737234454571
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 39.30030400752821,0.0,-10.893933642887077
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 39.67424508226668,0.0,-11.035438405213199
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 40.04809655004692,0.0,-11.177227839524903
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 40.421865985758814,0.0,-11.319277054895565
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 40.79556021052895,0.0,-11.461563649491609
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 41.16918535964487,0.0,-11.60406746166359
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 41.542746954865834,0.0,-11.746770344996094
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 41.91624996577457,0.0,-11.889655968647048
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 42.2896988649959,0.0,-12.032709634858975
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 42.66334430328561,0.0,-12.175265187745254
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 43.037603908757774,0.0,-12.316119734350195
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 43.412967026498336,0.0,-12.453634928510382
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 43.789744833027726,0.0,-12.586499078118322
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 44.1681154036587,0.0,-12.713680975531815
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 44.54815788052247,0.0,-12.834392968028396
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 44.9298800721931,0.0,-12.94805195725985
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 45.31323854732955,0.0,-13.054254280678606
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 45.698155307069555,0.0,-13.152744529434813
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 46.084529914256564,0.0,-13.243394420511322
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 46.472249158049635,0.0,-13.326175646890533
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 46.86119377394061,0.0,-13.401142767412466
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 47.251243437512585,0.0,-13.468421427247677
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 47.64228032377605,0.0,-13.528186104953193
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 48.034191632566035,0.0,-13.580655329147476
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 48.42687119829998,0.0,-13.626079643221601
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 48.82022032781151,0.0,-13.664730740880941
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 49.214148554399344,0.0,-13.696899327014762
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 49.608573299469754,0.0,-13.722881700075732
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 50.0034203018954,0.0,-13.742982978083546
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 50.39862301723497,0.0,-13.757508526505262
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 50.79412248681638,0.0,-13.766763892299196
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 51.189866396619436,0.0,-13.77104711166794
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 51.58580880024056,0.0,-13.770649429468904
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 51.98190941135044,0.0,-13.765852135944897
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 52.37813375666792,0.0,-13.756931346615602
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 52.77445150314452,0.0,-13.74414706634434
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 53.17083711310033,0.0,-13.727752399996689
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 53.56726860472645,0.0,-13.707986610717398
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 53.96372729335644,0.0,-13.68507649292701
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 54.36019806524837,0.0,-13.659241409677634
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 54.75666759370597,0.0,-13.630682618240598
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 55.153125747348895,0.0,-13.599596478676403
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 55.549563787914394,0.0,-13.566163533457257
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 55.94597477111256,0.0,-13.530553885762856
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 56.342353419383926,0.0,-13.492928237356637
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 56.738695441135405,0.0,-13.453435027999376
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 57.13499799093779,0.0,-13.412215456324475
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 57.5312584557505,0.0,-13.36939660901453
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 57.92747553809477,0.0,-13.325100460879412
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 58.323648588054766,0.0,-13.279440589041087
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 58.71977754969703,0.0,-13.232523011771491
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 59.11586291284948,0.0,-13.184446942048908
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 59.511905665974155,0.0,-13.135305468088518
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 59.90790668006048,0.0,-13.08518237067824
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 60.30386673154908,0.0,-13.034153055319393
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 60.69978764054804,0.0,-12.982292973049198
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 61.095670471459925,0.0,-12.929666238851269
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 61.491516744766614,0.0,-12.876334349019999
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 61.88732839514523,0.0,-12.822356443495892
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 62.2831071638052,0.0,-12.767785748224242
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 62.678854614109696,0.0,-12.712670167485612
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 63.0745721456351,0.0,-12.657052815597126
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 63.47026159541974,0.0,-12.600976287322965
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 63.865924616798566,0.0,-12.544478917949846
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 64.26156269777312,0.0,-12.487595209234996
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 64.65717775123903,0.0,-12.43036000417328
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 65.05277092138203,0.0,-12.372800870045012
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 65.44834381538976,0.0,-12.314946409281674
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 65.84389729858594,0.0,-12.256818573122473
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 66.23943273090663,0.0,-12.198440908164912
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 66.63495133629476,0.0,-12.139834606811746
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 67.03045479744378,0.0,-12.081022532708175
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 67.42594404763304,0.0,-12.022021472651204
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 67.82141992308789,0.0,-11.962846534292112
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 68.21688318013685,0.0,-11.903511315448213
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 68.61233508062105,0.0,-11.844031844171695
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 69.0077761753264,0.0,-11.784418755226397
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 69.40320754483128,0.0,-11.724685410382335
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 69.79862958051035,0.0,-11.664840045214987
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 70.19404321574666,0.0,-11.604893861759365
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 70.58944929058453,0.0,-11.544856941846774
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 70.92274458093743,0.0,-11.484734568642125
-[06:44:42] [Server thread/WARN]: Boat (vehicle of lunarTroop) moved too quickly! 70.92274458093743,0.0,-11.424535287476829
-[06:45:24] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:45:24] [Server thread/INFO]: lunarTroop left the game
-[06:45:52] [User Authenticator #3/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[06:45:53] [Server thread/INFO]: lunarTroop[/192.168.1.79:63483] logged in with entity id 34320 at (3819.3897554190626, 62.52326524331348, 2014.6823833850224)
-[06:45:53] [Server thread/INFO]: lunarTroop joined the game
-[06:50:39] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[06:50:39] [Server thread/INFO]: lunarTroop left the game
+[03:05:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:05:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:05:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:05:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:05:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:05:23] [main/INFO]: Reloading ResourceManager: Default
+[03:05:24] [Worker-Main-14/INFO]: Loaded 7 recipes
+[03:05:25] [Worker-Main-14/INFO]: Loaded 927 advancements
+[03:05:26] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[03:05:26] [Server thread/INFO]: Loading properties
+[03:05:26] [Server thread/INFO]: Default game type: SURVIVAL
+[03:05:26] [Server thread/INFO]: Generating keypair
+[03:05:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:05:27] [Server thread/INFO]: Using default channel type
+[03:05:29] [Server thread/INFO]: Preparing level "Kovidland"
+[03:05:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:35] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[03:05:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:05:38] [Server thread/INFO]: Preparing spawn area: 83%
+[03:05:39] [Server thread/INFO]: Time elapsed: 9703 ms
+[03:05:39] [Server thread/INFO]: Done (9.922s)! For help, type "help"
+[03:09:53] [User Authenticator #1/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[03:09:54] [Server thread/INFO]: lunarTroop[/192.168.1.79:65529] logged in with entity id 96 at (389.30000001192093, 80.0, 281.5146569400069)
+[03:09:54] [Server thread/INFO]: lunarTroop joined the game
+[03:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[03:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[03:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[03:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4360ms or 87 ticks behind
+[03:17:53] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3105, y=58, z=1877} fu{x=3105, y=59, z=1877}
+[03:17:53] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3105, y=58, z=1877} fu{x=3105, y=59, z=1877}
+[03:26:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3113, y=46, z=1823} fu{x=3113, y=49, z=1823}
+[03:26:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3113, y=46, z=1823} fu{x=3113, y=49, z=1823}
+[03:26:18] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3113, y=46, z=1823} fu{x=3113, y=49, z=1823}
+[03:26:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3108, y=48, z=1795} fu{x=3108, y=49, z=1795}
+[04:06:48] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[04:06:48] [Server thread/INFO]: lunarTroop left the game
+[04:06:57] [User Authenticator #2/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
+[04:06:58] [Server thread/INFO]: lunarTroop[/192.168.1.79:52036] logged in with entity id 9977 at (2179.619997631586, 13.0, 1625.2262963199278)
+[04:06:58] [Server thread/INFO]: lunarTroop joined the game
+[04:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5539ms or 110 ticks behind
+[05:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05:21:03] [Server thread/WARN]: lunarTroop moved too quickly! -10.100016319421002,-0.7967356006687112,-1.4505516166500456
+[05:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[05:25:43] [Server thread/WARN]: lunarTroop moved wrongly!
+[05:28:10] [Server thread/INFO]: lunarTroop was blown up by Creeper
+[05:29:07] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 367.5, 66.0, 1722.5]
+[05:32:24] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[05:32:24] [Server thread/INFO]: lunarTroop left the game
