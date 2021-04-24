@@ -1,75 +1,29 @@
-[00:00:11] [Server thread/WARN]: lunarTroop moved too quickly! 11.736104881529172,0.2475206332504456,-13.107264444780412
-[00:19:46] [Server thread/INFO]: Villager bdp['Cleric'/13112, l='ServerLevel[Kovidland]', x=9580.07, y=71.94, z=5147.98] died, message: 'Cleric was shot by Pillager'
-[00:23:39] [Server thread/INFO]: Villager bdp['Librarian'/15875, l='ServerLevel[Kovidland]', x=9564.19, y=68.00, z=5152.30] died, message: 'Librarian was slain by Vindicator'
-[00:25:00] [Server thread/INFO]: Villager bdp['Leatherworker'/14507, l='ServerLevel[Kovidland]', x=9526.59, y=79.00, z=5187.95] died, message: 'Leatherworker was slain by Vindicator'
-[00:26:02] [Server thread/INFO]: Villager bdp['Villager'/15886, l='ServerLevel[Kovidland]', x=9553.60, y=73.00, z=5185.64] died, message: 'Villager was slain by Vindicator'
-[00:28:06] [Server thread/INFO]: lunarTroop was slain by Vindicator
-[00:28:54] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 9576.5, 72.0, 5162.5]
-[00:43:14] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[00:43:14] [Server thread/INFO]: lunarTroop left the game
-[00:43:14] [Server thread/WARN]: handleDisconnection() called twice
-[00:44:13] [User Authenticator #4/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[00:44:14] [Server thread/INFO]: lunarTroop[/192.168.1.105:53496] logged in with entity id 19046 at (9605.674941578101, 76.52442408821369, 5191.022451990715)
-[00:44:14] [Server thread/INFO]: lunarTroop joined the game
-[01:06:39] [Server thread/INFO]: Villager bdp['Villager'/19054, l='ServerLevel[Kovidland]', x=9586.96, y=67.00, z=5189.41] died, message: 'Villager was slain by Zombie'
-[01:33:56] [Server thread/WARN]: lunarTroop moved too quickly! 1.0432417687698035,-1.0,10.110851019823713
-[01:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15877ms or 317 ticks behind
-[02:14:42] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/29663, l='ServerLevel[Kovidland]', x=9710.92, y=61.00, z=5039.79]
-[02:17:43] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/29959, l='ServerLevel[Kovidland]', x=9712.41, y=61.00, z=5040.14]
-[02:18:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/30016, l='ServerLevel[Kovidland]', x=9712.53, y=61.00, z=5039.30]
-[02:18:13] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/30017, l='ServerLevel[Kovidland]', x=9711.38, y=61.00, z=5039.63]
-[02:18:44] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/30079, l='ServerLevel[Kovidland]', x=9711.48, y=61.17, z=5041.11]
-[02:18:58] [Server thread/WARN]: lunarTroop moved too quickly! 1.167916578870063,12.670885724797756,13.390259366125065
-[02:20:22] [Server thread/WARN]: lunarTroop moved too quickly! -13.014932344449335,12.255218774565677,-4.805197541350935
-[02:27:32] [Server thread/WARN]: lunarTroop moved too quickly! -1.063332834835819,-1.9467368342426852,-18.31160642183704
-[02:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
-[02:30:31] [Server thread/INFO]: lunarTroop was impaled by Drowned
-[02:31:03] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 48.0, 1379.5]
-[02:31:03] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:31:03] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/43978, l='ServerLevel[Kovidland]', x=5284.43, y=48.75, z=1379.46]
-[02:31:39] [Server thread/INFO]: lunarTroop was impaled by Drowned
-[02:32:00] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 48.0, 1379.5]
-[02:32:00] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:32:24] [Server thread/INFO]: lunarTroop was impaled by Drowned
-[02:32:35] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 48.0, 1379.5]
-[02:32:35] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:32:51] [Server thread/INFO]: lunarTroop was slain by Drowned
-[02:33:33] [Server thread/INFO]: lunarTroop lost connection: Timed out
-[02:33:33] [Server thread/INFO]: lunarTroop left the game
-[02:34:15] [User Authenticator #5/INFO]: UUID of player lunarTroop is 5fb13456-dac5-48e5-a48a-22ba657afc6e
-[02:34:16] [Server thread/INFO]: lunarTroop[/192.168.1.105:56161] logged in with entity id 45765 at (9712.5, 63.0000002, 5043.5)
-[02:34:16] [Server thread/INFO]: lunarTroop joined the game
-[02:34:27] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 48.0, 1379.5]
-[02:34:27] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:34:27] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:34:36] [Server thread/INFO]: lunarTroop was slain by Drowned
-[02:34:44] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 48.0, 1379.5]
-[02:34:44] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:34:44] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:34:44] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-15.000000200000002,-3664.0
-[02:34:51] [Server thread/INFO]: lunarTroop was slain by Drowned
-[02:35:06] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5284.5, 62.0, 1379.5]
-[02:35:06] [Server thread/WARN]: lunarTroop moved too quickly! -4428.0,-1.0000002000000023,-3664.0
-[02:35:39] [Server thread/INFO]: lunarTroop was impaled by Drowned
-[02:36:09] [Server thread/INFO]: [lunarTroop: Set own game mode to Creative Mode]
-[02:36:16] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 5257.5, 62.0, 1375.5]
-[02:36:16] [Server thread/WARN]: lunarTroop moved too quickly! -4455.0,-1.0000002000000023,-3668.0
-[02:36:16] [Server thread/WARN]: Fetching packet for removed entity aos['Experience Orb'/47634, l='ServerLevel[Kovidland]', x=5257.17, y=62.56, z=1375.94]
-[02:44:23] [Server thread/INFO]: [lunarTroop: Gave 1 [Golden Apple] to lunarTroop]
-[02:45:35] [Server thread/INFO]: [lunarTroop: Gave 9 [Golden Apple] to lunarTroop]
-[02:51:24] [Server thread/INFO]: [lunarTroop: Gave 1 [Big D energy] to lunarTroop]
-[02:53:34] [Server thread/INFO]: [lunarTroop: Set own game mode to Survival Mode]
-[02:54:17] [Server thread/INFO]: [lunarTroop: Gave 1 [Iron Shovel] to lunarTroop]
-[03:00:32] [Server thread/INFO]: [lunarTroop: Gave 1 [Si(l)ck Pick] to lunarTroop]
-[03:36:57] [Server thread/INFO]: [lunarTroop: Set own game mode to Creative Mode]
-[03:37:12] [Server thread/WARN]: lunarTroop moved too quickly! 8.287902844806013,0.0,7.061543388714654
-[03:38:08] [Server thread/WARN]: lunarTroop moved too quickly! 10.888881402282095,0.0,0.0013153881945981993
-[03:38:40] [Server thread/WARN]: lunarTroop moved too quickly! 10.868557263857838,0.0,-0.6443596510569023
-[03:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:39:52] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 7593.5, 53.0, 2057.5]
-[03:40:25] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -159.5, 69.0, 200.5]
-[03:40:37] [Server thread/INFO]: [lunarTroop: Set own game mode to Survival Mode]
-[03:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11385ms or 227 ticks behind
-[03:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[03:59:53] [Server thread/INFO]: lunarTroop lost connection: Disconnected
-[03:59:53] [Server thread/INFO]: lunarTroop left the game
+[00:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3103ms or 62 ticks behind
+[00:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[00:09:10] [Server thread/WARN]: lunarTroop moved too quickly! 1019.4783631890562,23.23363200604248,-1202.4938994485897
+[00:09:10] [Server thread/WARN]: lunarTroop moved too quickly! 1019.4783631890562,23.23363200604248,-1202.4938994485897
+[00:09:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:09:13] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[00:09:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
+[00:10:37] [Server thread/INFO]: lunarTroop has made the advancement [Remote Getaway]
+[01:39:53] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -159.5, 69.0, 200.5]
+[02:25:49] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 224.5, 69.0, 1794.5]
+[02:29:35] [Server thread/WARN]: lunarTroop moved too quickly! 12.571323865309523,-3.914834573629321,-11.403282849750894
+[02:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5415ms or 108 ticks behind
+[02:34:32] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to 3424.5, 64.0, 4808.5]
+[02:34:33] [Server thread/WARN]: lunarTroop moved too quickly! 0.0,-10.80652611000901,0.0
+[02:38:48] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3448, y=49, z=4810} fu{x=3448, y=50, z=4810}
+[02:38:50] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=3449, y=50, z=4810} fu{x=3449, y=51, z=4810}
+[02:48:28] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -159.5, 69.0, 200.5]
+[02:48:28] [Server thread/WARN]: lunarTroop moved too quickly! -3637.410171899411,13.847729886213394,-4563.91991002603
+[02:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[02:49:39] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -1031.5, 71.0, -3539.5]
+[02:49:44] [Server thread/WARN]: lunarTroop moved too quickly! 0.0,-10.806526110008996,0.0
+[02:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9655ms or 193 ticks behind
+[02:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[03:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[03:40:41] [Server thread/INFO]: [lunarTroop: Teleported lunarTroop to -1318.5, 59.12499983608693, -4166.5]
+[03:40:41] [Server thread/WARN]: lunarTroop moved too quickly! 22.116915417641167,-0.025000001490056434,49.30794053533282
+[03:42:53] [Server thread/INFO]: lunarTroop lost connection: Disconnected
+[03:42:53] [Server thread/INFO]: lunarTroop left the game
+[22:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 66553736ms or 1331074 ticks behind
